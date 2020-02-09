@@ -1,13 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://guoyuw-data.github.io/</id>
-    <title>Gridea</title>
-    <updated>2020-02-09T21:58:24.510Z</updated>
+    <title>Guoyu&apos;s PPE</title>
+    <updated>2020-02-09T22:07:40.990Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://guoyuw-data.github.io/"/>
     <link rel="self" href="https://guoyuw-data.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>Carpe Diem.</subtitle>
     <logo>https://guoyuw-data.github.io/images/avatar.png</logo>
     <icon>https://guoyuw-data.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, Guoyu&apos;s PPE</rights>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://guoyuw-data.github.io/post/about</id>
+        <link href="https://guoyuw-data.github.io/post/about">
+        </link>
+        <updated>2020-02-09T09:07:08.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
+</blockquote>
+<h2 id="关于本站">🏠 关于本站</h2>
+<h2 id="博主是谁">👨‍💻 博主是谁</h2>
+<h2 id="兴趣爱好">⛹ 兴趣爱好</h2>
+<h2 id="联系我呀">📬 联系我呀</h2>
+]]></content>
+    </entry>
 </feed>
