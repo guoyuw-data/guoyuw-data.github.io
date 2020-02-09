@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://guoyuw-data.github.io/</id>
     <title>Guoyu&apos;s PPE</title>
-    <updated>2020-02-09T22:17:25.443Z</updated>
+    <updated>2020-02-09T22:20:01.421Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://guoyuw-data.github.io/"/>
     <link rel="self" href="https://guoyuw-data.github.io/atom.xml"/>
@@ -15,14 +15,11 @@
         <id>https://guoyuw-data.github.io/post/about</id>
         <link href="https://guoyuw-data.github.io/post/about">
         </link>
-        <updated>2020-02-08T20:07:08.000Z</updated>
+        <updated>2020-02-08T07:07:08.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
 <p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
 </blockquote>
-<h2 id="关于本站">🏠 关于本站</h2>
-<h2 id="博主是谁">👨‍💻 博主是谁</h2>
-<h2 id="兴趣爱好">⛹ 兴趣爱好</h2>
-<h2 id="联系我呀">📬 联系我呀</h2>
+<h2 id="未完待续">🏠 未完待续</h2>
 ]]></content>
     </entry>
 </feed>
