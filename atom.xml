@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://guoyuw-data.github.io/</id>
+    <id>https://www.guoyuw.site</id>
     <title>Guoyu&apos;s PPE</title>
-    <updated>2020-03-10T22:20:45.862Z</updated>
+    <updated>2020-03-10T22:21:36.359Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://guoyuw-data.github.io/"/>
-    <link rel="self" href="https://guoyuw-data.github.io/atom.xml"/>
+    <link rel="alternate" href="https://www.guoyuw.site"/>
+    <link rel="self" href="https://www.guoyuw.site/atom.xml"/>
     <subtitle>Carpe Diem. ✨</subtitle>
-    <logo>https://guoyuw-data.github.io/images/avatar.png</logo>
-    <icon>https://guoyuw-data.github.io/favicon.ico</icon>
+    <logo>https://www.guoyuw.site/images/avatar.png</logo>
+    <icon>https://www.guoyuw.site/favicon.ico</icon>
     <rights>All rights reserved 2020, Guoyu&apos;s PPE</rights>
     <entry>
         <title type="html"><![CDATA[关于]]></title>
-        <id>https://guoyuw-data.github.io/post/about/</id>
-        <link href="https://guoyuw-data.github.io/post/about/">
+        <id>https://www.guoyuw.site/post/about/</id>
+        <link href="https://www.guoyuw.site/post/about/">
         </link>
         <updated>2020-02-08T07:07:08.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
