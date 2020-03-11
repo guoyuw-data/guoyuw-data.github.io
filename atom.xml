@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.guoyuw.site</id>
     <title>Guoyu Wu</title>
-    <updated>2020-03-11T15:28:57.297Z</updated>
+    <updated>2020-03-11T15:57:04.779Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.guoyuw.site"/>
     <link rel="self" href="https://www.guoyuw.site/atom.xml"/>
@@ -20,6 +20,18 @@
 <p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
 </blockquote>
 <h2 id="未完待续">🏠 未完待续</h2>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[匹村的日子#03 | 19fall流水账]]></title>
+        <id>https://www.guoyuw.site/post/19fall-liu-shui-zhang/</id>
+        <link href="https://www.guoyuw.site/post/19fall-liu-shui-zhang/">
+        </link>
+        <updated>2020-01-10T04:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>回顾这学期，就是眼看着立的flag一个一个一个一个倒掉的过程，就像这样：</p>
+<p>如果说之前本科的时候是前十六周快活地温水泡脚，后两周一口气把泡脚水全部喝下去，那这学期在cmu就像是每周都在喝洗脚水......<br>
+<img src="https://www.guoyuw.site/post-images/1583941980234.gif" alt="" loading="lazy"></p>
+<p>唯一坚持下来的一件事可能就是每天的时间记录，这学期每个月尾都坚持把前四周的时间数据整理出来，一学期过完，拥有了一张填满107*15个单元格的excel大表。作为一个未来很有可能要靠数据分析混饭吃的人，本着不浪费任何可能有价值的数据的原则，决定效仿某宝、某乎、某瓣和某易的《年度用户报告》，给自己做一次时间数据分析。</p>
 ]]></content>
     </entry>
 </feed>
