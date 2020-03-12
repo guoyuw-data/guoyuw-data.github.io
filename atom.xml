@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.guoyuw.site</id>
     <title>Guoyu Wu</title>
-    <updated>2020-03-12T14:20:15.743Z</updated>
+    <updated>2020-03-12T14:20:59.600Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.guoyuw.site"/>
     <link rel="self" href="https://www.guoyuw.site/atom.xml"/>
@@ -143,18 +143,6 @@ PV的计算：当用户访问的时候，记录他所访问的页面和对应的
 3）未来，建议网易严选增加更多线下场景化应用，比如严选书店、严选酒店等，让用户在线下就能接触到严选商品，从而进一步增加用户粘性。</p>
 <p><br/><br/><br/><br/></p>
 <p>                      ----end----</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于]]></title>
-        <id>https://www.guoyuw.site/post/about/</id>
-        <link href="https://www.guoyuw.site/post/about/">
-        </link>
-        <updated>2020-02-08T07:07:08.000Z</updated>
-        <content type="html"><![CDATA[<blockquote>
-<p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
-</blockquote>
-<h2 id="未完待续">🏠 未完待续</h2>
 ]]></content>
     </entry>
 </feed>
