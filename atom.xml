@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.guoyuw.site</id>
     <title>Guoyu Wu</title>
-    <updated>2020-03-12T15:36:14.823Z</updated>
+    <updated>2020-03-12T15:37:28.903Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.guoyuw.site"/>
     <link rel="self" href="https://www.guoyuw.site/atom.xml"/>
@@ -71,7 +71,7 @@ PV的计算：当用户访问的时候，记录他所访问的页面和对应的
         <id>https://www.guoyuw.site/post/chanpin-wangyiyanxuan/</id>
         <link href="https://www.guoyuw.site/post/chanpin-wangyiyanxuan/">
         </link>
-        <updated>2020-03-07T16:01:27.000Z</updated>
+        <updated>2020-03-07T03:01:27.000Z</updated>
         <summary type="html"><![CDATA[<p>网易严选是网易自营的原创生活类电商品牌，于2016年4月正式上线，是国内首家ODM（原始设计制造商）模式电商。秉承网易一贯的严谨态度，由自建团队对采购、品控、物流、销售、售后等环节全权负责，致力于为追求生活品质的消费者提供高品质商品。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>网易严选是网易自营的原创生活类电商品牌，于2016年4月正式上线，是国内首家ODM（原始设计制造商）模式电商。秉承网易一贯的严谨态度，由自建团队对采购、品控、物流、销售、售后等环节全权负责，致力于为追求生活品质的消费者提供高品质商品。</p>
@@ -110,8 +110,8 @@ PV的计算：当用户访问的时候，记录他所访问的页面和对应的
     1）	<strong>常用生活家居用品</strong>，如纸巾盒、拖鞋等；<br>
     2）	与合作品牌制造商一起打造的<strong>爆款产品</strong>。</p>
 <p>同样，甄选业务主要来源于两种形式：<br>
-    1）	**算法甄选：**通过户行为（购买、点赞等），计算出目标用户的大致需求，基于需求安排制造商生产商品；<br>
-    2）	**用户甄选：**提供给用户自主选择权，对用户的选择量和建议进行征集，作为增加或减少SKU的依据。目前提供三种甄选策略：样式甄选，建议征集和样品试用。</p>
+    1）	<strong>算法甄选</strong>：通过户行为（购买、点赞等），计算出目标用户的大致需求，基于需求安排制造商生产商品；<br>
+    2）	<strong>用户甄选</strong>：提供给用户自主选择权，对用户的选择量和建议进行征集，作为增加或减少SKU的依据。目前提供三种甄选策略：样式甄选，建议征集和样品试用。</p>
 <br/>
 <h4 id="32-核心功能"><strong>3.2 核心功能</strong></h4>
 <p>安卓V5.2.0版本拥有如下核心功能：<strong>搜索、商品分类、商品推荐、商品购买、商品甄选、在线客服和个人中心</strong>，基本上涵盖了电商App的标配功能模块，同时增加了“商品甄选”功能。<br>
