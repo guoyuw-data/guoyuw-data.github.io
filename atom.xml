@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.guoyuw.site</id>
     <title>Guoyu Wu</title>
-    <updated>2020-03-12T14:22:53.756Z</updated>
+    <updated>2020-03-12T14:25:27.876Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.guoyuw.site"/>
     <link rel="self" href="https://www.guoyuw.site/atom.xml"/>
@@ -15,38 +15,49 @@
         <id>https://www.guoyuw.site/post/chanpin-vocabulary/</id>
         <link href="https://www.guoyuw.site/post/chanpin-vocabulary/">
         </link>
-        <updated>2020-03-09T13:37:56.000Z</updated>
-        <summary type="html"><![CDATA[<p>📌最后更新时间：2020年3月12日</p>
+        <updated>2020-03-09T01:37:56.000Z</updated>
+        <summary type="html"><![CDATA[<br/>
+📌最后更新时间：2020年3月12日
 ]]></summary>
-        <content type="html"><![CDATA[<p>📌最后更新时间：2020年3月12日</p>
+        <content type="html"><![CDATA[<br/>
+📌最后更新时间：2020年3月12日
 <!-- more -->
-<p><br/><br/></p>
+<br/>
 <h6 id="banner横幅广告"><strong>Banner，横幅广告</strong></h6>
 <p>横幅广告又称旗帜广告，它是横跨于网页上的矩形公告牌，当用户点击这些横幅的时候，通常可以链接到广告主的网页。<br>
-是网络广告最早采用的形式，也是目前最常见的形式。</p>
+是网络广告最早采用的形式，也是目前最常见的形式。<br>
+<br/></p>
 <h6 id="cpmcost-per-millecost-per-thousand每千人成本"><strong>CPM，Cost Per Mille/Cost Per Thousand，每千人成本</strong></h6>
 <p>指的是广告投放过程中，听到或者看到某广告的每一人平均分担到多少广告成本。传统媒介多采用这种计价方式收费。<br>
-在网上广告，CPM取决于“印象”尺度，通常理解为一个人的眼睛在一段固定的时间内注视一个广告的次数。比如一个广告横幅的单价是1元/CPM，意味着每一千个人次看到这个Banner的话就收1元，如此类推 ，一万人次访问的主页应计价10元。</p>
+在网上广告，CPM取决于“印象”尺度，通常理解为一个人的眼睛在一段固定的时间内注视一个广告的次数。比如一个广告横幅的单价是1元/CPM，意味着每一千个人次看到这个Banner的话就收1元，如此类推 ，一万人次访问的主页应计价10元。<br>
+<br/></p>
 <h6 id="ctrclick-through-rate点击到达率"><strong>CTR，Click-Through-Rate，点击到达率</strong></h6>
-<p>互联网广告常用术语，指网络广告（图片广告/文字广告/关键词广告/排名广告/视频广告等）的点击量（可以是到达目标页面的数量）除以广告的浏览量（PV- Page View），用来衡量<strong>互联网广告效果</strong>。</p>
+<p>互联网广告常用术语，指网络广告（图片广告/文字广告/关键词广告/排名广告/视频广告等）的点击量（可以是到达目标页面的数量）除以广告的浏览量（PV- Page View），用来衡量<strong>互联网广告效果</strong>。<br>
+<br/></p>
 <h6 id="daudaily-active-user日活跃用户数量"><strong>DAU，Daily Active User，日活跃用户数量</strong></h6>
-<p>通常统计一日（统计日）之内，登录或使用了某个产品的用户数（去除重复登录的用户），与流量统计工具里的访客（UV）概念相似。用于反映网站、互联网应用或网络游戏的运营情况。</p>
+<p>通常统计一日（统计日）之内，登录或使用了某个产品的用户数（去除重复登录的用户），与流量统计工具里的访客（UV）概念相似。用于反映网站、互联网应用或网络游戏的运营情况。<br>
+<br/></p>
 <h6 id="gross-profit-margin毛利率"><strong>gross profit margin，毛利率</strong></h6>
 <p>是毛利与销售收入（或营业收入）的百分比。<br>
 其中毛利是收入和<strong>与收入相对应的营业成本</strong>之间的差额。<br>
 用公式表示：毛利率=毛利/营业收入×100%=（主营业务收入-主营业务成本）/主营业务收入×100%<br>
-反映了一个商品经过生产转换内部系统以后<strong>增值</strong>的那一部分。也就是说，增值的越多毛利自然就越多。比如产品通过研发的差异性设计，对比竞争对手增加了一些功能，而边际价格的增加又为正值，这时毛利也就增加了。</p>
+反映了一个商品经过生产转换内部系统以后<strong>增值</strong>的那一部分。也就是说，增值的越多毛利自然就越多。比如产品通过研发的差异性设计，对比竞争对手增加了一些功能，而边际价格的增加又为正值，这时毛利也就增加了。<br>
+<br/></p>
 <h6 id="icon图标"><strong>icon，图标</strong></h6>
-<p>用于系统图标、软件图标等，这种图标扩展名为*.icon、*.ico。</p>
+<p>用于系统图标、软件图标等，这种图标扩展名为*.icon、*.ico。<br>
+<br/></p>
 <h6 id="pvpage-view页面浏览量点击量"><strong>PV，Page View，页面浏览量/点击量</strong></h6>
 <p>通俗解释是一个访问者在24小时(0点到24点)内到底看了一个网站的<strong>几个页面</strong>。<br>
 需要强调的是：<strong>同一个人浏览同一个网站的同一个页面，不重复计算pv量，点100次也算1次。</strong><br>
 PV之于网站，就像收视率之于电视，从某种程度上已成为投资者衡量商业网站表现的最重要尺度。<br>
-PV的计算：当用户访问的时候，记录他所访问的页面和对应的IP，然后确定这个IP今天访问了这个页面没有。如果到了23点，记录的单纯IP有60万条，每个访问者平均访问了3个页面，那么PV表的记录应该有180万条。</p>
+PV的计算：当用户访问的时候，记录他所访问的页面和对应的IP，然后确定这个IP今天访问了这个页面没有。如果到了23点，记录的单纯IP有60万条，每个访问者平均访问了3个页面，那么PV表的记录应该有180万条。<br>
+<br/></p>
 <h6 id="semsearch-engine-marketing-搜索引擎营销"><strong>SEM，Search Engine Marketing ，搜索引擎营销</strong></h6>
-<p>基本思想是让用户发现信息，并通过（搜索引擎）搜索点击进入网站/网页进一步了解他所需要的信息。一般认为，搜索引擎优化设计主要目标有2个层次：被搜索引擎收录、在搜索结果中排名。</p>
+<p>基本思想是让用户发现信息，并通过（搜索引擎）搜索点击进入网站/网页进一步了解他所需要的信息。一般认为，搜索引擎优化设计主要目标有2个层次：被搜索引擎收录、在搜索结果中排名。<br>
+<br/></p>
 <h6 id="seosearch-engine-optimization搜索引擎优化"><strong>SEO，Search Engine Optimization，搜索引擎优化</strong></h6>
-<p>是一种利用搜索引擎的搜索规则来提高目前网站在有关搜索引擎内的<strong>排名</strong>的方式。目的是：为网站提供生态式的自我营销解决方案，让网站在行业内占据领先地位，从而获得品牌收益。SEO包含站外SEO和站内SEO两方面。</p>
+<p>是一种利用搜索引擎的搜索规则来提高目前网站在有关搜索引擎内的<strong>排名</strong>的方式。目的是：为网站提供生态式的自我营销解决方案，让网站在行业内占据领先地位，从而获得品牌收益。SEO包含站外SEO和站内SEO两方面。<br>
+<br/></p>
 <h6 id="uvunique-visitor独立ip访客"><strong>UV，Unique Visitor，独立（IP）访客</strong></h6>
 <p>指访问某个站点的<strong>不同IP地址</strong>的人数。<br>
 在同一天内，UV只记录<strong>第一次</strong>进入网站的<strong>具有独立IP</strong>的访问者，在同一天内再次访问该网站则不计数。独立IP访问者提供了一定时间内不同观众数量的统计指标，但没有反映出网站的全面活动。</p>
