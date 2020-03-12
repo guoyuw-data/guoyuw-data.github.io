@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.guoyuw.site</id>
     <title>Guoyu Wu</title>
-    <updated>2020-03-12T14:28:50.490Z</updated>
+    <updated>2020-03-12T15:36:14.823Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.guoyuw.site"/>
     <link rel="self" href="https://www.guoyuw.site/atom.xml"/>
@@ -71,7 +71,7 @@ PV的计算：当用户访问的时候，记录他所访问的页面和对应的
         <id>https://www.guoyuw.site/post/chanpin-wangyiyanxuan/</id>
         <link href="https://www.guoyuw.site/post/chanpin-wangyiyanxuan/">
         </link>
-        <updated>2020-03-08T05:01:27.000Z</updated>
+        <updated>2020-03-07T16:01:27.000Z</updated>
         <summary type="html"><![CDATA[<p>网易严选是网易自营的原创生活类电商品牌，于2016年4月正式上线，是国内首家ODM（原始设计制造商）模式电商。秉承网易一贯的严谨态度，由自建团队对采购、品控、物流、销售、售后等环节全权负责，致力于为追求生活品质的消费者提供高品质商品。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>网易严选是网易自营的原创生活类电商品牌，于2016年4月正式上线，是国内首家ODM（原始设计制造商）模式电商。秉承网易一贯的严谨态度，由自建团队对采购、品控、物流、销售、售后等环节全权负责，致力于为追求生活品质的消费者提供高品质商品。</p>
@@ -107,8 +107,8 @@ PV的计算：当用户访问的时候，记录他所访问的页面和对应的
 <h6 id="313-甄选业务"><strong>3.1.3 甄选业务</strong></h6>
 <p>甄选业务是网易严选产品的特色业务之一，也是网易严选实现“高品质商品”的途径之一。<br>
 具体而言，甄选业务主要针对两种类型商品：<br>
-    1）	<strong>常用生活家居用品，<strong>如纸巾盒、拖鞋等；<br>
-    2）	与合作品牌制造商一起打造的</strong>爆款产品</strong>。</p>
+    1）	<strong>常用生活家居用品</strong>，如纸巾盒、拖鞋等；<br>
+    2）	与合作品牌制造商一起打造的<strong>爆款产品</strong>。</p>
 <p>同样，甄选业务主要来源于两种形式：<br>
     1）	**算法甄选：**通过户行为（购买、点赞等），计算出目标用户的大致需求，基于需求安排制造商生产商品；<br>
     2）	**用户甄选：**提供给用户自主选择权，对用户的选择量和建议进行征集，作为增加或减少SKU的依据。目前提供三种甄选策略：样式甄选，建议征集和样品试用。</p>
