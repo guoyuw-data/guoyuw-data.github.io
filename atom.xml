@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.guoyuw.site</id>
     <title>Guoyu Wu</title>
-    <updated>2020-03-12T21:23:08.579Z</updated>
+    <updated>2020-03-13T01:55:05.167Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.guoyuw.site"/>
     <link rel="self" href="https://www.guoyuw.site/atom.xml"/>
@@ -71,7 +71,7 @@ PV的计算：当用户访问的时候，记录他所访问的页面和对应的
         <id>https://www.guoyuw.site/post/chanpin-wangyiyanxuan/</id>
         <link href="https://www.guoyuw.site/post/chanpin-wangyiyanxuan/">
         </link>
-        <updated>2020-03-07T03:01:27.000Z</updated>
+        <updated>2020-03-06T14:01:27.000Z</updated>
         <summary type="html"><![CDATA[<p>网易严选是网易自营的原创生活类电商品牌，于2016年4月正式上线，是国内首家ODM（原始设计制造商）模式电商。秉承网易一贯的严谨态度，由自建团队对采购、品控、物流、销售、售后等环节全权负责，致力于为追求生活品质的消费者提供高品质商品。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>网易严选是网易自营的原创生活类电商品牌，于2016年4月正式上线，是国内首家ODM（原始设计制造商）模式电商。秉承网易一贯的严谨态度，由自建团队对采购、品控、物流、销售、售后等环节全权负责，致力于为追求生活品质的消费者提供高品质商品。</p>
@@ -153,6 +153,125 @@ PV的计算：当用户访问的时候，记录他所访问的页面和对应的
 <p>1）建议网易严选加强对原创商品的自主品牌建设，避免其它品牌商抄袭，提高行业壁垒；<br>
 2）建议严选快报功能每天向用户推荐一篇热门专题内容，刺激用户的购物欲望，增加导流；<br>
 3）未来，建议网易严选增加更多线下场景化应用，比如严选书店、严选酒店等，让用户在线下就能接触到严选商品，从而进一步增加用户粘性。</p>
+<p><br/><br/><br/><br/></p>
+<p>                      ----end----</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2019秋季学期总结]]></title>
+        <id>https://www.guoyuw.site/post/zongjie-19fall/</id>
+        <link href="https://www.guoyuw.site/post/zongjie-19fall/">
+        </link>
+        <updated>2019-12-12T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>📊🙇‍♀对自己做了一次数据分析。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>📊🙇‍♀对自己做了一次数据分析。</p>
+<!-- more -->
+<p><br/><br/></p>
+<p>                      ----正文分割线----</p>
+<p>如果说之前本科的时候是前十六周快活地温水泡脚，后两周一口气把泡脚水全部喝下去，那这学期在cmu就像是每周都在喝洗脚水......</p>
+<p>回看这学期，最开心的是坚持下来了每天的时间记录。这学期每个月尾都坚持把前四周的时间数据整理出来，一学期过完，拥有了一张<strong>填满107*15个单元格的excel大表</strong>。本着不浪费任何可能有价值的数据的原则，决定效仿某宝、某乎、某瓣和某易的《年度用户报告》，给自己做一次19fall时间数据分析🙇‍♀️</p>
+<br/>
+<h2 id="1-数据搜集-data-collection">1. 数据搜集 Data Collection</h2>
+<p><strong>起止时间</strong>：从2019.8.26开学第一天到2019.12.10考完本学期最后一门课<br>
+<strong>总记录数</strong>：107条<br>
+<strong>统计维度</strong>：4大类15个细项指标</p>
+<br/>
+<h2 id="2-数据清洗-data-cleaning">2. 数据清洗 Data Cleaning</h2>
+<p><strong>缺失值</strong>：2019.8.26 ~ 2019.9.1 （丝毫不在状态的开学第一周，可以忽略不计）<br>
+<strong>异常值</strong>：2019.9.21（这一整天献给了德勤的case），2019.10.23（打完flu shot发烧了一整晚...除了睡觉啥都没干...），2019.10.18（shooting 一整天），2019.11.29（Black Friday无心学习）<br>
+<strong>有效记录</strong>：96条（剔除完以上之后）</p>
+<br/>
+<h2 id="3-数据分析-data-exploration">3. 数据分析 Data Exploration</h2>
+<p>先按大类画了一张19fall总的时间分布饼图👇<br>
+<img src="https://www.guoyuw.site/post-images/1584059649390.png" alt="" loading="lazy"></p>
+<p>谨遵“heart in work”的校训，<strong>19fall四分之三的时间都花在了学习上，将近五分之一的时间在吃</strong>，震惊我的是这学期的运动时间竟然比洗衣服时间还少......不过考虑到洗衣服打扫吸尘也算是在消耗卡路里，可以原谅自己。</p>
+<br/>
+<p><strong>每周的学习时间分布</strong>长这样（纵轴是周数，每个长方块是当周加总的学习时间，单位是分钟）👇<br>
+<img src="https://www.guoyuw.site/post-images/1584059674076.png" alt="" loading="lazy"></p>
+<p><strong>明显看到后半学期比前半学期爱学习</strong>（其实真实原因是mini2比mini1多选了一门课），算了一下平均数，多选的这门课直接导致我mini2的每周学习时间平均增加454.36分钟（约等于7.6小时）。<br>
+<strong>最小值出现在第八周</strong>，这一周，mini1结束，虽然只有短短三天的秋假，但足以磨灭我的学习斗志。<br>
+<strong>第11周和第15周的我犹如学霸附体</strong>，学习时间超过了40小时（还不包括平时上课的时间）。赶紧上canvas看看这两周发生了啥，第11周考了econ做了db的project加上11.7四个连环due，第15周12.5三门期末，难怪难怪，我就说自己从来不会没有缘由地变身学霸。</p>
+<br/>
+<p>按课程分类，这学期选了七门课，正好画出一个调色盘👇<br>
+<img src="https://www.guoyuw.site/post-images/1584059695790.png" alt="" loading="lazy"></p>
+<p>不出所料，煎熬了一整个学期的db课盘踞了超过四分之一的面积，不禁想起那一个个被db的announcement轰炸邮箱的日夜......Moore绝对是我这学期遇到过的最细心负责的教授，也确实在这门课上学到不少干货，希望不要忘得太快。</p>
+<br/>
+<p>我继续用箱线图统计了<strong>每日睡眠时间</strong>，仍然以周为单位👇<br>
+<img src="https://www.guoyuw.site/post-images/1584059712615.png" alt="" loading="lazy"><br>
+<img src="https://www.guoyuw.site/post-images/1584059719847.png" alt="" loading="lazy"></p>
+<p>每个箱子的中线是<strong>当周的睡眠平均值</strong>，本来以为在课业的重压下，箱子们会分布在纵坐标轴的下半区域的，结果基本每周的平均睡眠时间都在六小时以上，<strong>整个学期的总体平均值算出来竟然有6小时19分54秒</strong>，一点也不比本科少。但平均值受极值的影响太大，我认为这个数据不具有充分说服力。<br>
+整个学期我总共有六天的睡眠时间没有达到三小时，<strong>唯一的一次通宵在第11周11月4号</strong>，原因是第二天有两个大due和一场占比25%的考试，然而打脸的是，那场考试却是我整个学期考得最差的一次......从此立下flag，再多没完成的任务，也绝不通宵！！</p>
+<br/>
+<p>最后画了一张体重折线图，没脸给纵坐标了👇<br>
+<img src="https://www.guoyuw.site/post-images/1584059746456.png" alt="" loading="lazy"></p>
+<p>由图易得，总体斜率为正。一句话概括就是：<strong>间歇性变瘦，持续性变胖</strong>。🤷‍♀️</p>
+<br/>
+<h2 id="4-总结-conclusion">4. 总结 Conclusion</h2>
+<p>做过很多公司案例分析的作业，第一次尝试把自己的数据可视化出来。挺有意思的，<strong>想到每一个单元格都是自己生产出来的</strong>，没有任何水分，一整学期十六周一百零七天的努力和懈怠就这样被摊开在几张图里，供我审视。</p>
+<p>如果要给我的19fall一个关键词的话，应该是“<strong>适应</strong>”。虽然一直自认为是适应能力很强的人，但是当学习、生活和求职的三重压力一起涌来的时候还是会招架不住。这学期要适应的东西太多了。适应新的环境，适应放学后还要回家自己做饭的日常，适应所有作业都要用电脑完成的日子，适应占比可能比期末都高的平时测验，连聊天都要适应英文版的表情包。<em>（记得第一次用队友分享来的google sheet编辑文档，我不知道共享文档能自动保存，花了好久去找save的图标。）</em></p>
+<p><br/><br/></p>
+<p>下学期想给自己定几个小目标：希望能更自信一些，有想法就多去表达，多去Office Hour；少一点熬夜，<strong>这次客观分析了数据，发现我很多次熬夜都不是因为作业</strong>；due发布之后早一点开始写，也能少一点due前的熬夜；要找到更适合的排解压力方式，减少情绪化暴食；还想减少周末宅在家的时间，作业写完了就多走出去探索这座小城市；还希望下学期结束再画时间饼图的时候，<strong>运动占的面积能大一点</strong>。就这些了，下学期一定会有进步！💪</p>
+<p><br/><br/><br/><br/></p>
+<p>                      ----end----</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[德国交换记录]]></title>
+        <id>https://www.guoyuw.site/post/zongjie-deguo/</id>
+        <link href="https://www.guoyuw.site/post/zongjie-deguo/">
+        </link>
+        <updated>2019-05-10T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>🏡记录我在德国两个月的“家”。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>🏡记录我在德国两个月的“家”。</p>
+<!-- more -->
+<p><br/><br/></p>
+<p>                      ----正文分割线----</p>
+<p>入住前紧张了好一阵，第一次住Airbnb，一个人，语言也不通，结果却意外收获了我在德国最亲密的“家人”。想用<strong>七个小片段</strong>记录下我在Ursula家当房客的这段日子。</p>
+<br/>
+<h4 id="1-入住第一天">1. 入住第一天</h4>
+<p><em>——feel at home from the first minute!</em><br>
+  能想象到第一次踏进Ursula家门的我有多狼狈，从头到脚到箱子全被雨点淋透了，担心身上的泥巴弄脏木地板，只能局促地蜷缩在门口。好在我的新房东救星一样出现，热情地和我握手，果断地拿来毛巾帮我擦干两个箱子上的水渍——那是我对Ursula的第一印象：<strong>一位和蔼又能干、还有点神似麦格教授的女士</strong>。开始期待接下来和Ursula两个人的同居生活。</p>
+<h4 id="2-第一次morning-talk">2. 第一次morning talk</h4>
+<p><em>——&quot;It's human.&quot;</em><br>
+  和Ursula临时到访的朋友一起享用了第一顿早餐，当得知她们是快50年的好友时，还以为是自己听混了fifteen和fifty。我再一次端详了Ursula，真是一点也看不出。伴着一杯加了方糖的Espresso，我陪着两位年过半百的朋友一起叙旧。我们聊了很多，从食物到人生。</p>
+<p><img src="https://www.guoyuw.site/post-images/1584062335824.jpg" alt="" loading="lazy"><br>
+-这是Ursula专程给我买来当早餐的新鲜Croissant（羊角面包）-</p>
+<p>  看到我想拍照，Ursula特意起身帮我摆盘（于是有了上图），还让我把照片传给我爸妈看，让他们不用为我担心。于是我们顺势聊起了<strong>父母与子女</strong>的话题。</p>
+<p>  一直以为西方家庭教育中对Independence的强调会淡化父母与子女之间的联系，尤其是子女成年离家之后，但当Ursula和我聊起她在外求学的孩子时，眼里藏不住的全是牵挂，用中国这几年流行的一个词，也是一位典型的“空巢老人”了。她告诉我这也是她在bnb上出租房间的一个主要原因，不想让家里太空太安静。<br>
+  Ursula还对我说：在德国，他们会把孩子比做成<strong>arrow（箭）</strong>，迟早是要离开弓的。我突然想到在中国也有一个类似的比喻啊，我告诉Ursula，我们会把孩子比做成<strong>kite（风筝）</strong>，而离家的孩子就像断了线的风筝。两位德国母亲听后都笑了，我也笑了，原来东西方都是一样的。Ursula耸了耸肩，说了句：“It's human.”——我喜欢她的总结。</p>
+<h4 id="3-羊角包和硬面包">3. 羊角包和硬面包</h4>
+<p><em>——We have the same taste!</em><br>
+  连着两个早晨，Ursula都去街角给我买新鲜的羊角包当早餐，直到第三天，我注意到桌上有一排吃剩的黑麦面包，连忙喊住又要下楼的Ursula，告诉她我吃家里有的就够了。Ursula有些犹豫，但也拗不过我的坚持，直到看我吃得津津有味，才放心地陪我坐下。原来，Ursula是担心我吃不惯这么硬的面包片，<strong>而硬面包片却是她的最爱，因为她从来都是把刚买回来的最新鲜的面包留给家人</strong>，自己负责吃前几天剩下的变硬了的面包。</p>
+<p>  “But I think they are better than soft ones. I love hard bread!”我告诉Ursula我也爱吃这些硬面包，因为它们有更丰富的口感。Ursula有些惊讶，但她说很高兴遇到和她有一样口味的人，我也很高兴，<strong>而且，我是真的爱吃！</strong></p>
+<p><img src="https://www.guoyuw.site/post-images/1584062383588.jpg" alt="" loading="lazy"><br>
+-我和Ursula一样，喜欢吃硬面包片，配上果酱，真的很棒-</p>
+<h3 id="4-华为和书法">4. 华为和书法</h3>
+<p><em>——What is China like?</em><br>
+  出了国之后，总是忍不住想当中国文化宣传大使，然而更多的时候，是在悔恨自己当初没有好好学高中历史和地理。这不，Ursula拿出了一包曾经一个中国朋友送给她的茶叶，向我讨教，我看包装上印着“武夷红茶”，但支支吾吾好久也描述不清“红茶”和“绿茶”的区别，也说不明白正确的泡茶方法。当时内心的os是：爸爸你为什么不爱喝茶？你要是天天在家喝，我多少还能瞎扯一点......（爸爸表示无辜躺枪hh）</p>
+<p>  好在这生疏的“中国科普”被华为拯救了，<strong>因为我发现Ursula竟然也用的华为手机</strong>！应该是前几年的型号，看到我这么惊讶，Ursula却很不以为然，<strong>她告诉我华为手机在德国很流行，因为便宜</strong>，普通机型的售价换算过来可能还不到1000元人民币。</p>
+<p><img src="https://www.guoyuw.site/post-images/1584062419790.jpg" alt="" loading="lazy"><br>
+-科隆地铁站随处可见的华为广告-</p>
+<p>  又有一次，我在Ursula家挂满油画的墙上猛然看到了一副<strong>中国书法</strong>，我很开心，在他乡找到熟悉的东西总是亲切的，虽然笔迹很青涩，也不是什么脍炙人口的作品。第二天一早，我就兴奋地把这个发现告诉了Ursula，结果她比我更开心，原来那是她儿子十年前写的，只是觉得这些形状很好看，就依葫芦画瓢模仿了下来，Ursula没想到我能认出她儿子写的每一个字，<strong>因为他们俩都不知道这一排一排奇怪的正方形状到底是何含义</strong>。</p>
+<h3 id="5-成为别人家的孩子">5. 成为别人家的孩子 *</h3>
+<p><em>——Do you like night life?</em><br>
+  周末遇上Ursula的儿子回家来住，趁着难得的好阳光，我和Ursula母子俩一同坐在客厅的沙发上闲聊，那天的话题是<strong>更喜欢柏林还是科隆</strong>。她的儿子坚持认为小城市相比大城市的生活少了很多乐趣，比如night life，我正要表示赞同，被Ursula抢过了话头：“你知道吗？Tina（我的英文名）几乎从不去夜生活的，她听她爸爸妈妈的话，每天都很早回家。”我没料到Ursula会突然把我搬出来，更没想到之前早餐时我随口提的“早归习惯”让我一下子变成“别人家的孩子”。</p>
+<p>感觉到小哥哥要被妈妈数落了，我赶紧找了个理由，把原因都归给了德国发达的交通系统——这确实也是一个重要的原因，<strong>即使是在科隆，这里的公交也会一直营运到凌晨一两点</strong>——我告诉正僵持不下的母子俩说：如果我在上海玩到这么晚，公交早停运了，可能就一夜回不了家了。虽然理由勉强了点，但也算是给小哥哥找了一个台阶下。</p>
+<p><img src="https://www.guoyuw.site/post-images/1584062464529.jpg" alt="" loading="lazy"><br>
+-那天阳光很好，我们就着Ursula自制的苹果蛋糕，闲聊了一整个下午-</p>
+<h3 id="6-我们是同学">6. 我们是同学！</h3>
+<p><em>——Enjoy retirement.</em><br>
+  那天放学回来，正好撞上在家看电影的Ursula，她起身迎接我，带着神秘的表情跟我讲：她在看今天老师推荐的一部意大利电影，问我要不要一起。我这才知道，<strong>Ursula竟然和我是同学！她正在科隆大学学习意大利语</strong>，我以为是和中国老年大学差不多的模式，但Ursula告诉我，班里都是和我一般大的，她是年纪最大的学生。我问她能否跟得上其他同学的节奏，Ursula说确实要更努力一点，但她非常享受和年轻人一起学习的氛围，可以了解很多新事物，还可以督促她学得更快。<strong>那个瞬间，我再一次对眼前这位已年过半百的德国母亲产生了敬意</strong>。</p>
+<p>曾经我一直在想，**50岁以后的我会是什么样？会拥有怎样的生活？**Ursula似乎已经给我提供了一份好的答卷。不管是当bnb的房东，和世界各地的旅行者一起分享生活，还是客厅里时常传来的她的钢琴声、书房里练习意大利语的跟读声，还有窗台上开得旺盛的花草，和不断变换新配方的自制食谱——她为自己规划的退休生活甚至让我有一些憧憬50岁以后的日子，原来在人生的每一个阶段，都能有那么多种可能性。</p>
+<h3 id="7-我们是家人">7. 我们是家人</h3>
+<p><em>——Let’s keep in touch.</em><br>
+  离开的那个下午，Ursula也准备动身回老家住上几天，是在科隆边上的一个小镇。她告诉我这个季节正是小镇最美的时候，花开得旺盛，她邀请我下次同她一起去，她愿意把我介绍给老家的每一个人。我欣然答应，虽然知道时间怕是来不及了，我这趟来得匆忙也要去得匆忙了，<strong>但那一刻，是我来德国这么久第一次产生不想离开的想法</strong>。</p>
+<p><img src="https://www.guoyuw.site/post-images/1584062547670.jpg" alt="" loading="lazy"><br>
+-临走时发现Ursula把我赠予她的熊猫礼物挂在了书桌台上最显眼的地方，很开心-</p>
+<p>  但或许也正是因为相聚时间短暂，才更加懂得珍惜。分别的时候，我和Ursula紧紧相拥，不是西方人见面时那种出于礼貌的拥抱，<strong>更像是亲人之间的，是沉甸甸的感谢与祝福</strong>。</p>
+<p><br/><br/><br>
+记得当初在app上选房子的时候有很多选项，有离车站更近的，有房间更大的，还有价格更优惠的，我也不知道自己为什么就选定了Ursula的家，<strong>现在只觉得好幸运，my best choice ever</strong>，度过了来德国最快乐的一段日子！</p>
 <p><br/><br/><br/><br/></p>
 <p>                      ----end----</p>
 ]]></content>
