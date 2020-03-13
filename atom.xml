@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.guoyuw.site</id>
     <title>Guoyu Wu</title>
-    <updated>2020-03-13T05:30:13.832Z</updated>
+    <updated>2020-03-13T05:31:16.368Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.guoyuw.site"/>
     <link rel="self" href="https://www.guoyuw.site/atom.xml"/>
@@ -245,10 +245,10 @@ PV的计算：当用户访问的时候，记录他所访问的页面和对应的
         <id>https://www.guoyuw.site/post/zongjie-deguo/</id>
         <link href="https://www.guoyuw.site/post/zongjie-deguo/">
         </link>
-        <updated>2019-05-07T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>🏡 记录我在德国两个月的“家”。</p>
+        <updated>2019-05-06T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>🏡记录我在德国两个月的“家”。</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>🏡 记录我在德国两个月的“家”。</p>
+        <content type="html"><![CDATA[<p>🏡记录我在德国两个月的“家”。</p>
 <!-- more -->
 <p><br/><br/></p>
 <p>                      ----正文分割线----</p>
