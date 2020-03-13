@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.guoyuw.site</id>
     <title>Guoyu Wu</title>
-    <updated>2020-03-13T03:23:14.500Z</updated>
+    <updated>2020-03-13T03:56:34.890Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.guoyuw.site"/>
     <link rel="self" href="https://www.guoyuw.site/atom.xml"/>
@@ -15,12 +15,12 @@
         <id>https://www.guoyuw.site/post/chanpin-vocabulary/</id>
         <link href="https://www.guoyuw.site/post/chanpin-vocabulary/">
         </link>
-        <updated>2020-03-11T15:19:21.000Z</updated>
-        <summary type="html"><![CDATA[<p>🙇‍♀上一份实习的时候发现每天都在遇到没见过的名词和缩写，想要一点点积累起来，下一次再遇到就能直接查字典了！暂时就按字母表排序了~</p>
-<p>📌最后更新时间：2020年3月12日</p>
+        <updated>2020-03-10T03:19:21.000Z</updated>
+        <summary type="html"><![CDATA[<p>🙇‍♀上一份实习的时候发现每天都在遇到没见过的名词和缩写，想要一点点积累起来，下次遇到就能直接查字典了！暂时按字母表排序~</p>
+<p>📌最后更新时间：2020年3月12日📅</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>🙇‍♀上一份实习的时候发现每天都在遇到没见过的名词和缩写，想要一点点积累起来，下一次再遇到就能直接查字典了！暂时就按字母表排序了~</p>
-<p>📌最后更新时间：2020年3月12日</p>
+        <content type="html"><![CDATA[<p>🙇‍♀上一份实习的时候发现每天都在遇到没见过的名词和缩写，想要一点点积累起来，下次遇到就能直接查字典了！暂时按字母表排序~</p>
+<p>📌最后更新时间：2020年3月12日📅</p>
 <!-- more -->
 <p><br/><br/></p>
 <h6 id="banner横幅广告"><strong>Banner，横幅广告</strong></h6>
@@ -31,11 +31,17 @@
 <p>指的是广告投放过程中，听到或者看到某广告的每一人平均分担到多少广告成本。传统媒介多采用这种计价方式收费。<br>
 在网上广告，CPM取决于“印象”尺度，通常理解为一个人的眼睛在一段固定的时间内注视一个广告的次数。比如一个广告横幅的单价是1元/CPM，意味着每一千个人次看到这个Banner的话就收1元，如此类推 ，一万人次访问的主页应计价10元。<br>
 <br/></p>
+<h6 id="cpocosts-per-ordercpo"><strong>CPO，Costs Per Order(CPO)</strong></h6>
+<p>即每个订单成本。<br>
+<br/></p>
 <h6 id="ctrclick-through-rate点击到达率"><strong>CTR，Click-Through-Rate，点击到达率</strong></h6>
 <p>互联网广告常用术语，指网络广告（图片广告/文字广告/关键词广告/排名广告/视频广告等）的点击量（可以是到达目标页面的数量）除以广告的浏览量（PV- Page View），用来衡量<strong>互联网广告效果</strong>。<br>
 <br/></p>
 <h6 id="daudaily-active-user日活跃用户数量"><strong>DAU，Daily Active User，日活跃用户数量</strong></h6>
 <p>通常统计一日（统计日）之内，登录或使用了某个产品的用户数（去除重复登录的用户），与流量统计工具里的访客（UV）概念相似。用于反映网站、互联网应用或网络游戏的运营情况。<br>
+<br/></p>
+<h6 id="gmvgross-merchandise-volume成交总额"><strong>GMV，Gross Merchandise Volume，成交总额</strong></h6>
+<p>指（一定时间段内）的成交总额。多用于电商行业，一般包含拍下未支付订单金额。<br>
 <br/></p>
 <h6 id="gross-profit-margin毛利率"><strong>gross profit margin，毛利率</strong></h6>
 <p>是毛利与销售收入（或营业收入）的百分比。<br>
@@ -46,11 +52,19 @@
 <h6 id="icon图标"><strong>icon，图标</strong></h6>
 <p>用于系统图标、软件图标等，这种图标扩展名为*.icon、*.ico。<br>
 <br/></p>
+<h6 id="npsnet-promoter-score净推荐值净促进者得分">*<em>NPS，Net Promoter Score，净推荐值/净促进者得分</em></h6>
+<p>亦可称口碑，是一种计量某个客户将会向其他人推荐某个企业或服务可能性的指数。<br>
+是最流行的顾客忠诚度分析指标，专注于顾客口碑如何影响企业成长。<br>
+<br/></p>
 <h6 id="pvpage-view页面浏览量点击量"><strong>PV，Page View，页面浏览量/点击量</strong></h6>
 <p>通俗解释是一个访问者在24小时(0点到24点)内到底看了一个网站的<strong>几个页面</strong>。<br>
 需要强调的是：<strong>同一个人浏览同一个网站的同一个页面，不重复计算pv量，点100次也算1次。</strong><br>
 PV之于网站，就像收视率之于电视，从某种程度上已成为投资者衡量商业网站表现的最重要尺度。<br>
 PV的计算：当用户访问的时候，记录他所访问的页面和对应的IP，然后确定这个IP今天访问了这个页面没有。如果到了23点，记录的单纯IP有60万条，每个访问者平均访问了3个页面，那么PV表的记录应该有180万条。<br>
+<br/></p>
+<h6 id="rfm模型"><strong>RFM模型</strong></h6>
+<p>通过一个客户的近期购买行为、购买的总体频率以及花了多少钱<strong>3项指标</strong>来描述该客户的价值状况。<br>
+是衡量客户价值和客户创利能力的重要工具和手段，在众多的客户关系管理(CRM)的分析模式中广泛使用。<br>
 <br/></p>
 <h6 id="semsearch-engine-marketing-搜索引擎营销"><strong>SEM，Search Engine Marketing ，搜索引擎营销</strong></h6>
 <p>基本思想是让用户发现信息，并通过（搜索引擎）搜索点击进入网站/网页进一步了解他所需要的信息。一般认为，搜索引擎优化设计主要目标有2个层次：被搜索引擎收录、在搜索结果中排名。<br>
@@ -60,7 +74,14 @@ PV的计算：当用户访问的时候，记录他所访问的页面和对应的
 <br/></p>
 <h6 id="uvunique-visitor独立ip访客"><strong>UV，Unique Visitor，独立（IP）访客</strong></h6>
 <p>指访问某个站点的<strong>不同IP地址</strong>的人数。<br>
-在同一天内，UV只记录<strong>第一次</strong>进入网站的<strong>具有独立IP</strong>的访问者，在同一天内再次访问该网站则不计数。独立IP访问者提供了一定时间内不同观众数量的统计指标，但没有反映出网站的全面活动。</p>
+在同一天内，UV只记录<strong>第一次</strong>进入网站的<strong>具有独立IP</strong>的访问者，在同一天内再次访问该网站则不计数。独立IP访问者提供了一定时间内不同观众数量的统计指标，但没有反映出网站的全面活动。<br>
+<br/></p>
+<h6 id="同比率值"><strong>同比率值</strong></h6>
+<p>指今年同期和去年同期的对比。例如：2020年1月与2019年1月的数据对比。<br>
+同比的计算公式：（2020年1月数据-2019年1月数据）/2019年1月数据*100%</p>
+<h6 id="环比率值"><strong>环比率值</strong></h6>
+<p>指本周期和上一周期的对比。例如：2020年2月和2020年1月的对比。如果不考虑2019年12月的数据，2020年1月份的环比数据可以直接写0%。<br>
+环比的计算公式：（2020年2月数据-2020年1月数据）/2020年1月数据*100%</p>
 <p><br/><br/><br>
 参考资料：<br>
 [1] 百度百科<br>
@@ -73,11 +94,15 @@ PV的计算：当用户访问的时候，记录他所访问的页面和对应的
         <id>https://www.guoyuw.site/post/chanpin-wangyiyanxuan/</id>
         <link href="https://www.guoyuw.site/post/chanpin-wangyiyanxuan/">
         </link>
-        <updated>2020-03-06T01:01:27.000Z</updated>
-        <summary type="html"><![CDATA[<p>📝网易严选是网易自营的原创生活类电商品牌，于2016年4月正式上线，是国内首家ODM（原始设计制造商）模式电商。秉承网易一贯的严谨态度，由自建团队对采购、品控、物流、销售、售后等环节全权负责，致力于为追求生活品质的消费者提供高品质商品。</p>
+        <updated>2020-02-29T15:01:27.000Z</updated>
+        <summary type="html"><![CDATA[<p>📝本篇为笔者自学产品方法论中的实践作业，希望可以在实战中锻炼产品思维能力。<br>
+🔍体验产品：网易严选；体验版本：安卓 V5.2.0；体验时间：2020年3月10日</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>📝网易严选是网易自营的原创生活类电商品牌，于2016年4月正式上线，是国内首家ODM（原始设计制造商）模式电商。秉承网易一贯的严谨态度，由自建团队对采购、品控、物流、销售、售后等环节全权负责，致力于为追求生活品质的消费者提供高品质商品。</p>
+        <content type="html"><![CDATA[<p>📝本篇为笔者自学产品方法论中的实践作业，希望可以在实战中锻炼产品思维能力。<br>
+🔍体验产品：网易严选；体验版本：安卓 V5.2.0；体验时间：2020年3月10日</p>
 <!-- more -->
+<br/>
+<p><strong>前言</strong>：网易严选是网易自营的原创生活类电商品牌，于2016年4月正式上线，是国内首家ODM（原始设计制造商）模式电商。秉承网易一贯的严谨态度，由自建团队对采购、品控、物流、销售、售后等环节全权负责，致力于为追求生活品质的消费者提供高品质商品。</p>
 <h2 id="1-整体定位"><strong>1. 整体定位</strong></h2>
 <p>体验版本：安卓 V5.2.0<br>
 体验时间：2020年3月10日<br>
@@ -164,16 +189,14 @@ PV的计算：当用户访问的时候，记录他所访问的页面和对应的
         <id>https://www.guoyuw.site/post/zongjie-19fall/</id>
         <link href="https://www.guoyuw.site/post/zongjie-19fall/">
         </link>
-        <updated>2019-12-12T13:00:00.000Z</updated>
+        <updated>2019-12-10T22:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>📊🙇‍♀对自己做了一次数据分析。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>📊🙇‍♀对自己做了一次数据分析。</p>
 <!-- more -->
-<p><br/><br/></p>
-<p>                      ----正文分割线----</p>
 <p>如果说之前本科的时候是前十六周快活地温水泡脚，后两周一口气把泡脚水全部喝下去，那这学期在cmu就像是每周都在喝洗脚水......</p>
 <p>回看这学期，最开心的是坚持下来了每天的时间记录。这学期每个月尾都坚持把前四周的时间数据整理出来，一学期过完，拥有了一张<strong>填满107*15个单元格的excel大表</strong>。本着不浪费任何可能有价值的数据的原则，决定效仿某宝、某乎、某瓣和某易的《年度用户报告》，给自己做一次19fall时间数据分析🙇‍♀️</p>
-<br/>
+<p>                      ----正文分割线----</p>
 <h2 id="1-数据搜集-data-collection">1. 数据搜集 Data Collection</h2>
 <p><strong>起止时间</strong>：从2019.8.26开学第一天到2019.12.10考完本学期最后一门课<br>
 <strong>总记录数</strong>：107条<br>
@@ -197,7 +220,7 @@ PV的计算：当用户访问的时候，记录他所访问的页面和对应的
 <br/>
 <p>按课程分类，这学期选了七门课，正好画出一个调色盘👇<br>
 <img src="https://www.guoyuw.site/post-images/1584059695790.png" alt="" loading="lazy"></p>
-<p>不出所料，煎熬了一整个学期的db课盘踞了超过四分之一的面积，不禁想起那一个个被db的announcement轰炸邮箱的日夜......Moore绝对是我这学期遇到过的最细心负责的教授，也确实在这门课上学到不少干货，希望不要忘得太快。</p>
+<p><strong>不出所料，煎熬了一整个学期的db课盘踞了超过四分之一的面积</strong>，不禁想起那一个个被db的announcement轰炸邮箱的日夜......Moore绝对是我这学期遇到过的最细心负责的教授，也确实在这门课上学到不少干货，希望不要忘得太快。</p>
 <br/>
 <p>我继续用箱线图统计了<strong>每日睡眠时间</strong>，仍然以周为单位👇<br>
 <img src="https://www.guoyuw.site/post-images/1584059712615.png" alt="" loading="lazy"><br>
@@ -223,14 +246,14 @@ PV的计算：当用户访问的时候，记录他所访问的页面和对应的
         <id>https://www.guoyuw.site/post/zongjie-deguo/</id>
         <link href="https://www.guoyuw.site/post/zongjie-deguo/">
         </link>
-        <updated>2019-05-10T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>🏡记录我在德国两个月的“家”。</p>
+        <updated>2019-05-07T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>🏡 记录我在德国两个月的“家”。</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>🏡记录我在德国两个月的“家”。</p>
+        <content type="html"><![CDATA[<p>🏡 记录我在德国两个月的“家”。</p>
 <!-- more -->
 <p><br/><br/></p>
 <p>                      ----正文分割线----</p>
-<p>入住前紧张了好一阵，第一次住Airbnb，一个人，语言也不通，结果却意外收获了我在德国最亲密的“家人”。想用<strong>七个小片段</strong>记录下我在Ursula家当房客的这段日子。</p>
+<p>这是我第一次一个人住Airbnb，入住前紧张了好一阵，语言也不通，结果却意外收获了我在德国最亲密的“家人”。想用<strong>七个小片段</strong>记录下我在Ursula家当房客的这段日子。</p>
 <br/>
 <h4 id="1-入住第一天">1. 入住第一天</h4>
 <p><em>——feel at home from the first minute!</em><br>
@@ -256,10 +279,10 @@ PV的计算：当用户访问的时候，记录他所访问的页面和对应的
 <p><img src="https://www.guoyuw.site/post-images/1584062419790.jpg" alt="" loading="lazy"><br>
 -科隆地铁站随处可见的华为广告-</p>
 <p>  又有一次，我在Ursula家挂满油画的墙上猛然看到了一副<strong>中国书法</strong>，我很开心，在他乡找到熟悉的东西总是亲切的，虽然笔迹很青涩，也不是什么脍炙人口的作品。第二天一早，我就兴奋地把这个发现告诉了Ursula，结果她比我更开心，原来那是她儿子十年前写的，只是觉得这些形状很好看，就依葫芦画瓢模仿了下来，Ursula没想到我能认出她儿子写的每一个字，<strong>因为他们俩都不知道这一排一排奇怪的正方形状到底是何含义</strong>。</p>
-<h3 id="5-成为别人家的孩子">5. 成为别人家的孩子 *</h3>
+<h3 id="5-成为别人家的孩子">5. 成为别人家的孩子</h3>
 <p><em>——Do you like night life?</em><br>
   周末遇上Ursula的儿子回家来住，趁着难得的好阳光，我和Ursula母子俩一同坐在客厅的沙发上闲聊，那天的话题是<strong>更喜欢柏林还是科隆</strong>。她的儿子坚持认为小城市相比大城市的生活少了很多乐趣，比如night life，我正要表示赞同，被Ursula抢过了话头：“你知道吗？Tina（我的英文名）几乎从不去夜生活的，她听她爸爸妈妈的话，每天都很早回家。”我没料到Ursula会突然把我搬出来，更没想到之前早餐时我随口提的“早归习惯”让我一下子变成“别人家的孩子”。</p>
-<p>感觉到小哥哥要被妈妈数落了，我赶紧找了个理由，把原因都归给了德国发达的交通系统——这确实也是一个重要的原因，<strong>即使是在科隆，这里的公交也会一直营运到凌晨一两点</strong>——我告诉正僵持不下的母子俩说：如果我在上海玩到这么晚，公交早停运了，可能就一夜回不了家了。虽然理由勉强了点，但也算是给小哥哥找了一个台阶下。</p>
+<p>  感觉到小哥哥要被妈妈数落了，我赶紧找了个理由，把原因都归给了德国发达的交通系统——这确实也是一个重要的原因，<strong>即使是在科隆，这里的公交也会一直营运到凌晨一两点</strong>——我告诉正僵持不下的母子俩说：如果我在上海玩到这么晚，公交早停运了，可能就一夜回不了家了。虽然理由勉强了点，但也算是给小哥哥找了一个台阶下。</p>
 <p><img src="https://www.guoyuw.site/post-images/1584062464529.jpg" alt="" loading="lazy"><br>
 -那天阳光很好，我们就着Ursula自制的苹果蛋糕，闲聊了一整个下午-</p>
 <h3 id="6-我们是同学">6. 我们是同学！</h3>
