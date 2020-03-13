@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.guoyuw.site</id>
     <title>Guoyu Wu</title>
-    <updated>2020-03-13T03:56:34.890Z</updated>
+    <updated>2020-03-13T03:58:44.194Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.guoyuw.site"/>
     <link rel="self" href="https://www.guoyuw.site/atom.xml"/>
@@ -15,7 +15,7 @@
         <id>https://www.guoyuw.site/post/chanpin-vocabulary/</id>
         <link href="https://www.guoyuw.site/post/chanpin-vocabulary/">
         </link>
-        <updated>2020-03-10T03:19:21.000Z</updated>
+        <updated>2020-03-09T15:19:21.000Z</updated>
         <summary type="html"><![CDATA[<p>🙇‍♀上一份实习的时候发现每天都在遇到没见过的名词和缩写，想要一点点积累起来，下次遇到就能直接查字典了！暂时按字母表排序~</p>
 <p>📌最后更新时间：2020年3月12日📅</p>
 ]]></summary>
@@ -52,7 +52,7 @@
 <h6 id="icon图标"><strong>icon，图标</strong></h6>
 <p>用于系统图标、软件图标等，这种图标扩展名为*.icon、*.ico。<br>
 <br/></p>
-<h6 id="npsnet-promoter-score净推荐值净促进者得分">*<em>NPS，Net Promoter Score，净推荐值/净促进者得分</em></h6>
+<h6 id="npsnet-promoter-score净推荐值净促进者得分"><strong>NPS，Net Promoter Score，净推荐值/净促进者得分</strong></h6>
 <p>亦可称口碑，是一种计量某个客户将会向其他人推荐某个企业或服务可能性的指数。<br>
 是最流行的顾客忠诚度分析指标，专注于顾客口碑如何影响企业成长。<br>
 <br/></p>
