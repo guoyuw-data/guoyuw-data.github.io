@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.guoyuw.site</id>
     <title>Guoyu Wu</title>
-    <updated>2020-03-23T12:19:37.454Z</updated>
+    <updated>2020-03-23T23:39:10.430Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.guoyuw.site"/>
     <link rel="self" href="https://www.guoyuw.site/atom.xml"/>
@@ -15,12 +15,12 @@
         <id>https://www.guoyuw.site/post/chanpin-vocabulary/</id>
         <link href="https://www.guoyuw.site/post/chanpin-vocabulary/">
         </link>
-        <updated>2020-03-07T14:19:21.000Z</updated>
+        <updated>2020-03-06T12:19:21.000Z</updated>
         <summary type="html"><![CDATA[<p>⭐️上一份实习的时候发现每天都在遇到没见过的名词和缩写，想要一点点积累起来，下次遇到就能直接查字典了！暂时按字母表排序~</p>
-<p>📌最后更新时间：2020年3月12日📅</p>
+<p>📌最后更新时间：2020年3月23日📅</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>⭐️上一份实习的时候发现每天都在遇到没见过的名词和缩写，想要一点点积累起来，下次遇到就能直接查字典了！暂时按字母表排序~</p>
-<p>📌最后更新时间：2020年3月12日📅</p>
+<p>📌最后更新时间：2020年3月23日📅</p>
 <!-- more -->
 <p><br/><br/></p>
 <h6 id="banner横幅广告"><strong>Banner，横幅广告</strong></h6>
@@ -51,6 +51,10 @@
 <h6 id="icon图标"><strong>icon，图标</strong></h6>
 <p>用于系统图标、软件图标等，这种图标扩展名为*.icon、*.ico。<br>
 <br/></p>
+<h6 id="paasplatform-as-a-service平台即服务"><strong>PaaS，Platform as a Service，平台即服务</strong></h6>
+<p>PaaS实际上是指将<strong>软件研发的平台</strong>作为一种服务，以SaaS的模式提交给用户。<br>
+因此，<strong>PaaS是SaaS模式的一种应用</strong>。PaaS的出现可以加快SaaS的发展，尤其是加快SaaS应用的开发速度。在2007年国内外SaaS厂商先后推出自己的PaaS平台。<br>
+<br/></p>
 <h6 id="npsnet-promoter-score净推荐值净促进者得分"><strong>NPS，Net Promoter Score，净推荐值/净促进者得分</strong></h6>
 <p>亦可称<strong>口碑</strong>，是一种计量某个客户将会向其他人推荐某个企业或服务可能性的指数。<br>
 是最流行的顾客忠诚度分析指标，专注于顾客口碑如何影响企业成长。<br>
@@ -65,11 +69,19 @@ PV的计算：当用户访问的时候，记录他所访问的页面和对应的
 <p>通过一个客户的近期购买行为、购买的总体频率以及花了多少钱<strong>3项指标</strong>来描述该客户的价值状况。<br>
 是衡量客户价值和客户创利能力的重要工具和手段，在众多的客户关系管理(CRM)的分析模式中广泛使用。<br>
 <br/></p>
+<h6 id="saassoftware-as-a-service-软件即服务"><strong>SaaS，Software as a Service ，软件即服务</strong></h6>
+<p>SaaS是一种面向软件消费者的, 用户无需安装, 通过标准的Internet工具（比如浏览器、移动端APP）, 即可使用<strong>云计算平台</strong>提供的软件。<br>
+SaaS 应用软件有免费、付费和增值三种模式。付费通常为“全包”费用，囊括了通常的应用软件许可证费、软件维护费以及技术支持费，将其统一为每个用户的<strong>月度租用费</strong>。<br>
+<br/></p>
 <h6 id="semsearch-engine-marketing-搜索引擎营销"><strong>SEM，Search Engine Marketing ，搜索引擎营销</strong></h6>
 <p>基本思想是让用户发现信息，并通过（搜索引擎）搜索点击进入网站/网页进一步了解他所需要的信息。一般认为，搜索引擎优化设计主要目标有2个层次：被搜索引擎收录、在搜索结果中排名。<br>
 <br/></p>
 <h6 id="seosearch-engine-optimization搜索引擎优化"><strong>SEO，Search Engine Optimization，搜索引擎优化</strong></h6>
 <p>是一种利用搜索引擎的搜索规则来提高目前网站在有关搜索引擎内的<strong>排名</strong>的方式。目的是：为网站提供生态式的自我营销解决方案，让网站在行业内占据领先地位，从而获得品牌收益。SEO包含站外SEO和站内SEO两方面。<br>
+<br/></p>
+<h6 id="sopstandard-operating-procedure标准作业程序"><strong>SOP，Standard Operating Procedure，标准作业程序</strong></h6>
+<p>指将某一事件的标准操作步骤和要求以统一的格式描述出来，用于指导和规范日常的工作。SOP的精髓是将细节进行量化，通俗来讲，SOP就是对某一程序中的关键控制点进行细化和量化。<br>
+SOP 的最佳效果应该如何？「随便一个人来照着文档做，不动脑子也能完成工作」<br>
 <br/></p>
 <h6 id="uvunique-visitor独立ip访客"><strong>UV，Unique Visitor，独立（IP）访客</strong></h6>
 <p>指访问某个站点的<strong>不同IP地址</strong>的人数。<br>
