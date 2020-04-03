@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.guoyuw.site</id>
     <title>Guoyu Wu</title>
-    <updated>2020-03-23T23:39:10.430Z</updated>
+    <updated>2020-04-03T22:31:58.930Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.guoyuw.site"/>
     <link rel="self" href="https://www.guoyuw.site/atom.xml"/>
@@ -11,11 +11,57 @@
     <icon>https://www.guoyuw.site/favicon.ico</icon>
     <rights>All rights reserved 2020, Guoyu Wu</rights>
     <entry>
-        <title type="html"><![CDATA[产品运营词汇表（持续更新）]]></title>
+        <title type="html"><![CDATA[技术入门缩写词汇表（持续更新）]]></title>
+        <id>https://www.guoyuw.site/post/jishu-vocabulary/</id>
+        <link href="https://www.guoyuw.site/post/jishu-vocabulary/">
+        </link>
+        <updated>2020-03-31T00:40:28.000Z</updated>
+        <summary type="html"><![CDATA[<p>⭐️积累产品经理必须要懂的技术知识~</p>
+<p>📌最后更新时间：2020年4月3日📅</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>⭐️积累产品经理必须要懂的技术知识~</p>
+<p>📌最后更新时间：2020年4月3日📅</p>
+<!-- more -->
+<p><br/><br/></p>
+<h6 id="idcinternet-data-center互联网数据中心"><strong>IDC，Internet Data Center，互联网数据中心</strong></h6>
+<p>指一种拥有完善的设备（包括高速互联网接入带宽、高性能局域网络、安全可靠的机房环境等）、专业化的管理、完善的应用的服务平台。在这个平台基础上，IDC服务商为客户提供互联网基础平台服务（服务器托管、虚拟主机、邮件缓存、虚拟邮件等）以及各种增值服务（场地的租用服务、域名系统服务、负载均衡系统、数据库系统、数据备份服务等）。<br>
+产生背景：随着电子商务的兴起，企业用户会把越来越多的业务通过Internet或者Intranet来进行处理，这使得企业可以更好地节约成本、提高效率。但是，如果企业自己构建这样一个平台，就需要自己建机房、建系统、聘请很多的开发及维护人员，不仅需要大量的资金投入，而且也很难达到专业级的服务品质。IDC就可以为企业提供这一系列的支持，免去了企业的后顾之忧。<br>
+<br/></p>
+<h6 id="mdmmaster-data-management主数据管理"><strong>MDM，Master Data Management，主数据管理</strong></h6>
+<p>描述了一组规程、技术和解决方案，这些规程、技术和解决方案用于为所有利益相关方（如用户、应用程序、数据仓库、流程以及贸易伙伴）创建并维护<strong>业务数据的一致性、完整性、相关性和精确性</strong>。<br>
+一家企业应该<strong>有且只有一套</strong>客户资料存储系统和一套商品信息存储系统，以保证数据管理的一致性。<br>
+<br/></p>
+<h6 id="oa系统office-automation办公自动化"><strong>OA系统，Office Automation，办公自动化</strong></h6>
+<p>将计算机、通信等现代化技术运用到传统办公方式，进而形成的一种新型办公方式。办公自动化利用现代化设备和信息化技术，<strong>代替办公人员传统的部分手动或重复性业务活动</strong>，优质而高效地处理办公事务和业务信息，实现对信息资源的高效利用，进而达到提高生产率、辅助决策的目的，<strong>最大限度地提高工作效率和质量、改善工作环境</strong>。<br>
+<br/></p>
+<h6 id="paasplatform-as-a-service平台即服务"><strong>PaaS，Platform as a Service，平台即服务</strong></h6>
+<p>PaaS实际上是指将<strong>软件研发的平台</strong>作为一种服务，以SaaS的模式提交给用户。<br>
+因此，<strong>PaaS是SaaS模式的一种应用</strong>。PaaS的出现可以加快SaaS的发展，尤其是加快SaaS应用的开发速度。在2007年国内外SaaS厂商先后推出自己的PaaS平台。<br>
+<br/></p>
+<h6 id="saassoftware-as-a-service软件即服务"><strong>SaaS，Software as a Service，软件即服务</strong></h6>
+<p>SaaS是一种面向软件消费者的, 用户无需安装, 通过标准的Internet工具（比如浏览器、移动端APP）, 即可使用<strong>云计算平台</strong>提供的软件。<br>
+SaaS 应用软件有免费、付费和增值三种模式。付费通常为“全包”费用，囊括了通常的应用软件许可证费、软件维护费以及技术支持费，将其统一为每个用户的<strong>月度租用费</strong>。<br>
+<br/></p>
+<h6 id="ssosingle-sign-on单点登录"><strong>SSO，Single Sign On，单点登录</strong></h6>
+<p>通过用户的一次性鉴别登录。当用户在身份认证服务器上登录一次以后，即可获得访问单点登录系统中其他关联系统和应用软件的权限，同时这种实现是不需要管理员对用户的登录状态或其他信息进行修改的，这意味着在多个应用系统中，<strong>用户只需一次登录就可以访问所有相互信任的应用系统</strong>。这种方式减少了由登录产生的时间消耗，辅助了用户管理，是目前比较流行的。<br>
+<br/></p>
+<h6 id="tmstransportation-management-system运输管理系统"><strong>TMS，Transportation Management System，运输管理系统</strong></h6>
+<p>适用于运输公司、各企业下面的运输队等，它主要包括订单管理、配载作业、调度分配、行车管理、GPS车辆定位系统、车辆管理、人员管理、数据报表、基本信息维护、系统管理等模块。该系统对车辆、驾驶员、线路等进行全面详细的统计考核，能大大提高运作效率，降低运输成本。<br>
+<br/></p>
+<h6 id="wiki多人协作的写作系统"><strong>wiki，多人协作的写作系统</strong></h6>
+<p>Wiki是一种在网络上开放且可供多人协同创作的超文本系统，由沃德·坎宁安于1995年首先开发，这种超文本系统支持面向社群的协作式写作，同时也包括一组支持这种写作。沃德·坎宁安将wiki定义为“一种允许一群用户用简单的描述来创建和连接一组网页的社会计算系统”。 Wiki站点可以有多人（甚至任何访问者）维护，每个人都可以发表自己的意见，或者对共同的主题进行扩展与探讨。</p>
+<p><br/><br/><br>
+参考资料：<br>
+[1] 百度百科<br>
+<br/><br/></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[产品运营缩写词汇表（持续更新）]]></title>
         <id>https://www.guoyuw.site/post/chanpin-vocabulary/</id>
         <link href="https://www.guoyuw.site/post/chanpin-vocabulary/">
         </link>
-        <updated>2020-03-06T12:19:21.000Z</updated>
+        <updated>2020-03-04T08:19:21.000Z</updated>
         <summary type="html"><![CDATA[<p>⭐️上一份实习的时候发现每天都在遇到没见过的名词和缩写，想要一点点积累起来，下次遇到就能直接查字典了！暂时按字母表排序~</p>
 <p>📌最后更新时间：2020年3月23日📅</p>
 ]]></summary>
@@ -51,9 +97,10 @@
 <h6 id="icon图标"><strong>icon，图标</strong></h6>
 <p>用于系统图标、软件图标等，这种图标扩展名为*.icon、*.ico。<br>
 <br/></p>
-<h6 id="paasplatform-as-a-service平台即服务"><strong>PaaS，Platform as a Service，平台即服务</strong></h6>
-<p>PaaS实际上是指将<strong>软件研发的平台</strong>作为一种服务，以SaaS的模式提交给用户。<br>
-因此，<strong>PaaS是SaaS模式的一种应用</strong>。PaaS的出现可以加快SaaS的发展，尤其是加快SaaS应用的开发速度。在2007年国内外SaaS厂商先后推出自己的PaaS平台。<br>
+<h6 id="mvpminimum-viable-product最简化可实行产品"><strong>MVP，Minimum Viable Product，最简化可实行产品</strong></h6>
+<p>用最小的投入去验证业务，通过快速迭代逐步优化。<strong>用最短的时间和最低的成本支持业务启动</strong>。<br>
+源于《精益创业》一书。是一种产品理论，可以想像成是一部电影的剧情大纲，或是一部漫画的角色介绍。重点就是<strong>制作的成本要极低，但是却能展示最终产品的主要特色</strong>。<br>
+MVP 的功用就是让你拿来接触客户，从很早就根据客户的回馈来改进你的产品。典型的错误就是窝在家里做没人要的产品 ，却自以为很有进度。<br>
 <br/></p>
 <h6 id="npsnet-promoter-score净推荐值净促进者得分"><strong>NPS，Net Promoter Score，净推荐值/净促进者得分</strong></h6>
 <p>亦可称<strong>口碑</strong>，是一种计量某个客户将会向其他人推荐某个企业或服务可能性的指数。<br>
@@ -68,10 +115,6 @@ PV的计算：当用户访问的时候，记录他所访问的页面和对应的
 <h6 id="rfm模型"><strong>RFM模型</strong></h6>
 <p>通过一个客户的近期购买行为、购买的总体频率以及花了多少钱<strong>3项指标</strong>来描述该客户的价值状况。<br>
 是衡量客户价值和客户创利能力的重要工具和手段，在众多的客户关系管理(CRM)的分析模式中广泛使用。<br>
-<br/></p>
-<h6 id="saassoftware-as-a-service-软件即服务"><strong>SaaS，Software as a Service ，软件即服务</strong></h6>
-<p>SaaS是一种面向软件消费者的, 用户无需安装, 通过标准的Internet工具（比如浏览器、移动端APP）, 即可使用<strong>云计算平台</strong>提供的软件。<br>
-SaaS 应用软件有免费、付费和增值三种模式。付费通常为“全包”费用，囊括了通常的应用软件许可证费、软件维护费以及技术支持费，将其统一为每个用户的<strong>月度租用费</strong>。<br>
 <br/></p>
 <h6 id="semsearch-engine-marketing-搜索引擎营销"><strong>SEM，Search Engine Marketing ，搜索引擎营销</strong></h6>
 <p>基本思想是让用户发现信息，并通过（搜索引擎）搜索点击进入网站/网页进一步了解他所需要的信息。一般认为，搜索引擎优化设计主要目标有2个层次：被搜索引擎收录、在搜索结果中排名。<br>
