@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.guoyuw.site</id>
     <title>Guoyu Wu</title>
-    <updated>2020-04-03T22:36:58.570Z</updated>
+    <updated>2020-04-05T20:33:21.733Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.guoyuw.site"/>
     <link rel="self" href="https://www.guoyuw.site/atom.xml"/>
@@ -10,6 +10,46 @@
     <logo>https://www.guoyuw.site/images/avatar.png</logo>
     <icon>https://www.guoyuw.site/favicon.ico</icon>
     <rights>All rights reserved 2020, Guoyu Wu</rights>
+    <entry>
+        <title type="html"><![CDATA[B端 v.s. C端]]></title>
+        <id>https://www.guoyuw.site/post/2b-vs-2c/</id>
+        <link href="https://www.guoyuw.site/post/2b-vs-2c/">
+        </link>
+        <updated>2020-04-04T19:55:06.000Z</updated>
+        <summary type="html"><![CDATA[<p>📘本篇为笔者阅读杨堃先生《决胜B端》的读书笔记，结合网上查阅的其它相关资料，总结了一些B端和C端产品经理在工作内容、工作重点等方面存在的相同点和不同点。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>📘本篇为笔者阅读杨堃先生《决胜B端》的读书笔记，结合网上查阅的其它相关资料，总结了一些B端和C端产品经理在工作内容、工作重点等方面存在的相同点和不同点。</p>
+<!-- more -->
+<br/>
+<h3 id="1-b端产品经理的由来"><strong>1. B端产品经理的由来</strong></h3>
+<p>1）互联网公司有不同的<strong>盈利模式</strong>，根据其业务运作特点不同，产生了不同的产品经理诉求。比如以广告变现为主要盈利模式的企业（如今日头条）更加重视<strong>C端产品流量</strong>，而以佣金提成为主要盈利模式的平台型企业（如淘宝和美团）则需要强大稳定的商家**管理后台（B端产品）**支撑业务运转。</p>
+<p>2）在“互联网+”的发展趋势下，<strong>线下业务的线上化</strong>程度越来越高，很多领域迎来了<strong>商业模式的创新</strong>，比如滴滴实现了出行领域的创新、无人货架实现了零售领域的创新，为了对复杂业务场景进行管理，需要B端产品的助力。</p>
+<p>3）随着线上流量的竞争越来越惨烈，<strong>企业运营效率</strong>逐渐成为互联网行业的核心竞争力，B端产品通过产品、技术手段，可以有效地对提升企业内部各业务团队的分工协作效率。</p>
+<br/>
+<h3 id="2-b端和c端产品的对比表格"><strong>2. B端和C端产品的对比表格</strong></h3>
+<p>B端和C端产品经理最重要的不同点在于产品设计的目标，C端重视<strong>优化用户体验</strong>，B端重视<strong>提高工作效率</strong>。<br>
+<img src="https://www.guoyuw.site/post-images/1586111302675.png" alt="" loading="lazy"></p>
+<br/>
+<h3 id="3-b端产品按业务方向分类"><strong>3. B端产品按业务方向分类</strong></h3>
+<p>杨堃先生在《决胜B端》书中将B端产品按照业务方向分成了三大类：<strong>业务平台方向</strong>（​支持企业内经营管理或核心业务的开展），<strong>办公协同方向</strong>（​支持企业内业务团队的分工协同办公），<strong>商家管理方向</strong>（主要适用于平台型企业）。笔者根据书里的描述和案例，绘制了如下的脑图：<br>
+<img src="https://www.guoyuw.site/post-images/1586113355571.png" alt="" loading="lazy"></p>
+<p>其中，脑图中“业务平台方向-基础服务产品线”针对企业内不同业务平台的<strong>共性需求</strong>，目标是开发可以<strong>复用</strong>的产品。对应了当下很火的<strong>业务中台</strong>概念。</p>
+<br/>
+<h3 id="4-saas产品"><strong>4. SaaS产品</strong></h3>
+<p>​SaaS产品是一类特殊的B端产品。很多互联网企业和软件公司会设计开发<strong>云端部署</strong>的业务系统，如CRM、HRM，根据客户需求定制后进行售卖，主要售卖给中小企业客户。</p>
+<br/>
+<h3 id="5-b端和c端产品在设计流程上的不同"><strong>5. B端和C端产品在设计流程上的不同</strong></h3>
+<p>B端和C端产品在设计流程上都可以划分成四个大阶段：前期调研▶️产品整体方案设计▶️产品细节方案设计▶️技术实施与运营迭代，但由于二者的设计目标不同，在每一个阶段的具体实施中有差别。笔者绘制了以下表格做对比：<br>
+<img src="https://www.guoyuw.site/post-images/1586116424664.png" alt="" loading="lazy"></p>
+<p>其中，B端产品的设计思路可以类比<strong>软件工程学科中“自顶向下”的系统设计思路</strong>，遵循从抽象到具体的原则。</p>
+<p><br/><br/><br>
+                      ----end----</p>
+<p><br/><br/><br>
+参考资料：<br>
+[1] 杨堃.《决胜B端：产品经理升级之路》，北京：电子工业出版社，2019年6月<br>
+<br/><br/></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[产品运营缩写词汇表（持续更新）]]></title>
         <id>https://www.guoyuw.site/post/chanpin-vocabulary/</id>
@@ -102,7 +142,7 @@ SOP 的最佳效果应该如何？「随便一个人来照着文档做，不动�
         <id>https://www.guoyuw.site/post/jishu-vocabulary/</id>
         <link href="https://www.guoyuw.site/post/jishu-vocabulary/">
         </link>
-        <updated>2020-03-01T04:00:00.000Z</updated>
+        <updated>2020-02-29T15:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>📌最后更新时间：2020年4月3日📅</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>📌最后更新时间：2020年4月3日📅</p>
@@ -134,7 +174,10 @@ SaaS 应用软件有免费、付费和增值三种模式。付费通常为“全
 <p>适用于运输公司、各企业下面的运输队等，它主要包括订单管理、配载作业、调度分配、行车管理、GPS车辆定位系统、车辆管理、人员管理、数据报表、基本信息维护、系统管理等模块。该系统对车辆、驾驶员、线路等进行全面详细的统计考核，能大大提高运作效率，降低运输成本。<br>
 <br/></p>
 <h6 id="wiki多人协作的写作系统"><strong>wiki，多人协作的写作系统</strong></h6>
-<p>Wiki是一种在网络上开放且可供多人协同创作的超文本系统，由沃德·坎宁安于1995年首先开发，这种超文本系统支持面向社群的协作式写作，同时也包括一组支持这种写作。沃德·坎宁安将wiki定义为“一种允许一群用户用简单的描述来创建和连接一组网页的社会计算系统”。 Wiki站点可以有多人（甚至任何访问者）维护，每个人都可以发表自己的意见，或者对共同的主题进行扩展与探讨。</p>
+<p>Wiki是一种在网络上开放且可供多人协同创作的超文本系统，由沃德·坎宁安于1995年首先开发，这种超文本系统支持面向社群的协作式写作，同时也包括一组支持这种写作。沃德·坎宁安将wiki定义为“一种允许一群用户用简单的描述来创建和连接一组网页的社会计算系统”。 Wiki站点可以有多人（甚至任何访问者）维护，每个人都可以发表自己的意见，或者对共同的主题进行扩展与探讨。<br>
+<br/><br/></p>
+<h6 id="粒度"><strong>粒度</strong></h6>
+<p>粒度是数据库名词，是设计数据仓库的一个重要方面。指数据仓库的数据单位中保存数据的细化或综合程度的级别。细化程度越高，粒度级就越小；相反，细化程度越低，粒度级就越大。</p>
 <p><br/><br/><br>
 参考资料：<br>
 [1] 百度百科<br>
@@ -142,11 +185,11 @@ SaaS 应用软件有免费、付费和增值三种模式。付费通常为“全
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[网易严选产品分析报告（学习用）]]></title>
+        <title type="html"><![CDATA[网易严选产品体验报告（学习用）]]></title>
         <id>https://www.guoyuw.site/post/chanpin-wangyiyanxuan/</id>
         <link href="https://www.guoyuw.site/post/chanpin-wangyiyanxuan/">
         </link>
-        <updated>2020-02-28T13:01:27.000Z</updated>
+        <updated>2020-02-26T22:01:27.000Z</updated>
         <summary type="html"><![CDATA[<p>📝本篇为笔者自学产品方法论中的实践作业，希望可以在实战中锻炼产品思维能力。<br>
 🔍体验产品：网易严选；体验版本：安卓 V5.2.0；体验时间：2020年3月10日</p>
 ]]></summary>
