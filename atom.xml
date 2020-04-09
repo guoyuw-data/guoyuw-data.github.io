@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.guoyuw.site</id>
     <title>Guoyu Wu</title>
-    <updated>2020-04-09T04:58:10.902Z</updated>
+    <updated>2020-04-09T20:22:18.515Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.guoyuw.site"/>
     <link rel="self" href="https://www.guoyuw.site/atom.xml"/>
@@ -142,7 +142,7 @@ SOP 的最佳效果应该如何？「随便一个人来照着文档做，不动�
         <id>https://www.guoyuw.site/post/jishu-vocabulary/</id>
         <link href="https://www.guoyuw.site/post/jishu-vocabulary/">
         </link>
-        <updated>2020-02-29T02:00:00.000Z</updated>
+        <updated>2020-02-27T11:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>📌最后更新时间：2020年4月3日📅</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>📌最后更新时间：2020年4月3日📅</p>
@@ -155,6 +155,14 @@ SOP 的最佳效果应该如何？「随便一个人来照着文档做，不动�
 <h6 id="idcinternet-data-center互联网数据中心"><strong>IDC，Internet Data Center，互联网数据中心</strong></h6>
 <p>指一种拥有完善的设备（包括高速互联网接入带宽、高性能局域网络、安全可靠的机房环境等）、专业化的管理、完善的应用的服务平台。在这个平台基础上，IDC服务商为客户提供互联网基础平台服务（服务器托管、虚拟主机、邮件缓存、虚拟邮件等）以及各种增值服务（场地的租用服务、域名系统服务、负载均衡系统、数据库系统、数据备份服务等）。<br>
 产生背景：随着电子商务的兴起，企业用户会把越来越多的业务通过Internet或者Intranet来进行处理，这使得企业可以更好地节约成本、提高效率。但是，如果企业自己构建这样一个平台，就需要自己建机房、建系统、聘请很多的开发及维护人员，不仅需要大量的资金投入，而且也很难达到专业级的服务品质。IDC就可以为企业提供这一系列的支持，免去了企业的后顾之忧。<br>
+<br/></p>
+<h6 id="ioe传统it三大件"><strong>IOE，传统IT三大件</strong></h6>
+<p>指以 IBM 、Oracle、EMC 为代表的小型机、集中式数据库和高端存储的技术架构。（IBM，服务器提供商，小型机；Oracle，数据库提供商；EMC，存储设备提供商。）<br>
+场景：2009年，阿里提出<strong>去IOE</strong>战略，要摆脱掉IT部署中原有的IBM小型机、Oracle数据库以及EMC存储的过度依赖。2013年5月17日，阿里集团最后一台IBM小机在支付宝下线。<br>
+<br/></p>
+<h6 id="isvindependent-software-vendors独立软件开发商"><strong>ISV，Independent Software Vendors，独立软件开发商</strong></h6>
+<p>特指专门从事软件的开发、生产、销售和服务的企业，如微软（Microsoft）、甲骨文（Oracle）等。<br>
+场景：钉钉推出的“开放平台”，让所有独立第三方ISV可以免费入驻，共享客户资源。<br>
 <br/></p>
 <h6 id="mdmmaster-data-management主数据管理"><strong>MDM，Master Data Management，主数据管理</strong></h6>
 <p>描述了一组规程、技术和解决方案，这些规程、技术和解决方案用于为所有利益相关方（如用户、应用程序、数据仓库、流程以及贸易伙伴）创建并维护<strong>业务数据的一致性、完整性、相关性和精确性</strong>。<br>
@@ -173,6 +181,10 @@ SOP 的最佳效果应该如何？「随便一个人来照着文档做，不动�
 <br/></p>
 <h6 id="poipoint-of-information信息点"><strong>POI，Point of Information，信息点</strong></h6>
 <p>在地理信息系统中，一个POI可以是一栋房子、一个商铺、一个邮筒、一个公交站等。<br>
+<br/></p>
+<h6 id="rpa机器人流程自动化"><strong>RPA，机器人流程自动化</strong></h6>
+<p>以自动化软件作为虚拟劳动力，依据预先设定的程序与现有系统进行交互并完成预期的任务。通过RPA软件“机器人”可以捕捉并模拟我们日常的键盘、鼠标操作等人机交互行为，它们可以完成识别、触发、通信、文本生成等任务，自动执行重复性的业务流程。<br>
+比如：阿里云RPA产品是一款新型工作流程自动化办公机器人软件，通过模拟人工操作进行自动流程执行处理。将办公人员从每日的重复工作中解放出来，提高生产效率。是基于软件机器人和人工智能发展的新型办公业务流程自动化技术。就像工业时代工厂的流水线机器替代工人劳动一样，代替办公人员操作电脑和软件，自动完成各类软件系统的工作和业务处理，准确高效地实现业务流程自动化。<br>
 <br/></p>
 <h6 id="saassoftware-as-a-service软件即服务"><strong>SaaS，Software as a Service，软件即服务</strong></h6>
 <p>SaaS是一种面向软件消费者的, 用户无需安装, 通过标准的Internet工具（比如浏览器、移动端APP）, 即可使用<strong>云计算平台</strong>提供的软件。<br>
