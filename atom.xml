@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.guoyuw.site</id>
     <title>Guoyu Wu</title>
-    <updated>2020-04-06T00:56:46.245Z</updated>
+    <updated>2020-04-09T04:44:04.814Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.guoyuw.site"/>
     <link rel="self" href="https://www.guoyuw.site/atom.xml"/>
@@ -142,12 +142,16 @@ SOP 的最佳效果应该如何？「随便一个人来照着文档做，不动�
         <id>https://www.guoyuw.site/post/jishu-vocabulary/</id>
         <link href="https://www.guoyuw.site/post/jishu-vocabulary/">
         </link>
-        <updated>2020-02-29T15:00:00.000Z</updated>
+        <updated>2020-02-29T02:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>📌最后更新时间：2020年4月3日📅</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>📌最后更新时间：2020年4月3日📅</p>
 <!-- more -->
 <p><br/><br/></p>
+<h6 id="apiapplication-programming-interface应用程序接口"><strong>API，Application Programming Interface，应用程序接口</strong></h6>
+<p>是一些预先定义的函数，或指软件系统不同组成部分衔接的约定。目的是提供应用程序与开发人员基于某软件或硬件得以访问一组例程的能力，而又<strong>无需访问原码，或理解内部工作机制的细节</strong>。<br>
+是一种为客户提供服务的方式。<br>
+<br/></p>
 <h6 id="idcinternet-data-center互联网数据中心"><strong>IDC，Internet Data Center，互联网数据中心</strong></h6>
 <p>指一种拥有完善的设备（包括高速互联网接入带宽、高性能局域网络、安全可靠的机房环境等）、专业化的管理、完善的应用的服务平台。在这个平台基础上，IDC服务商为客户提供互联网基础平台服务（服务器托管、虚拟主机、邮件缓存、虚拟邮件等）以及各种增值服务（场地的租用服务、域名系统服务、负载均衡系统、数据库系统、数据备份服务等）。<br>
 产生背景：随着电子商务的兴起，企业用户会把越来越多的业务通过Internet或者Intranet来进行处理，这使得企业可以更好地节约成本、提高效率。但是，如果企业自己构建这样一个平台，就需要自己建机房、建系统、聘请很多的开发及维护人员，不仅需要大量的资金投入，而且也很难达到专业级的服务品质。IDC就可以为企业提供这一系列的支持，免去了企业的后顾之忧。<br>
@@ -159,9 +163,16 @@ SOP 的最佳效果应该如何？「随便一个人来照着文档做，不动�
 <h6 id="oa系统office-automation办公自动化"><strong>OA系统，Office Automation，办公自动化</strong></h6>
 <p>将计算机、通信等现代化技术运用到传统办公方式，进而形成的一种新型办公方式。办公自动化利用现代化设备和信息化技术，<strong>代替办公人员传统的部分手动或重复性业务活动</strong>，优质而高效地处理办公事务和业务信息，实现对信息资源的高效利用，进而达到提高生产率、辅助决策的目的，<strong>最大限度地提高工作效率和质量、改善工作环境</strong>。<br>
 <br/></p>
+<h6 id="olaponline-analytical-processing联机分析处理"><strong>OLAP，Online Analytical Processing，联机分析处理</strong></h6>
+<p>是一种软件技术，使分析人员能够迅速、一致、交互地从各个方面观察信息，以达到深入理解数据的目的。<br>
+它具有FASMI (Fast Analysis of Shared Multidimensional Information)，即共享多维信息的快速分析的特征。其中F是<strong>快速性</strong>(Fast)，指系统能在数秒内对用户的多数分析要求做出反应；A是可分析性(Analysis)，指用户<strong>无需编程</strong>就可以定义新的专门计算，将其作为分析的一部 分，并以用户所希望的方式给出报告；M是<strong>多维性</strong>(Multi—dimensional)，指提供对数据分析的多维视图和分析；I是<strong>信息性</strong>(Information)，指能及时获得信息，并且管理大容量信息。<br>
+<br/></p>
 <h6 id="paasplatform-as-a-service平台即服务"><strong>PaaS，Platform as a Service，平台即服务</strong></h6>
 <p>PaaS实际上是指将<strong>软件研发的平台</strong>作为一种服务，以SaaS的模式提交给用户。<br>
 因此，<strong>PaaS是SaaS模式的一种应用</strong>。PaaS的出现可以加快SaaS的发展，尤其是加快SaaS应用的开发速度。在2007年国内外SaaS厂商先后推出自己的PaaS平台。<br>
+<br/></p>
+<h6 id="poipoint-of-information信息点"><strong>POI，Point of Information，信息点</strong></h6>
+<p>在地理信息系统中，一个POI可以是一栋房子、一个商铺、一个邮筒、一个公交站等。<br>
 <br/></p>
 <h6 id="saassoftware-as-a-service软件即服务"><strong>SaaS，Software as a Service，软件即服务</strong></h6>
 <p>SaaS是一种面向软件消费者的, 用户无需安装, 通过标准的Internet工具（比如浏览器、移动端APP）, 即可使用<strong>云计算平台</strong>提供的软件。<br>
@@ -189,7 +200,7 @@ SaaS 应用软件有免费、付费和增值三种模式。付费通常为“全
         <id>https://www.guoyuw.site/post/chanpin-wangyiyanxuan/</id>
         <link href="https://www.guoyuw.site/post/chanpin-wangyiyanxuan/">
         </link>
-        <updated>2020-02-26T22:01:27.000Z</updated>
+        <updated>2020-02-25T07:01:27.000Z</updated>
         <summary type="html"><![CDATA[<p>📝本篇为笔者自学产品方法论中的实践作业，希望可以在实战中锻炼产品思维能力。<br>
 🔍体验产品：网易严选；体验版本：安卓 V5.2.0；体验时间：2020年3月10日</p>
 ]]></summary>
@@ -253,21 +264,21 @@ SaaS 应用软件有免费、付费和增值三种模式。付费通常为“全
 <p>柱状图显示，接近70%的活跃用户群体分布在<strong>18-35岁年龄区段</strong>，该年龄群体用户对应于“八五后”、“九零后”和“零零后”标签，更加注重生活品质和高颜值，但经济实力还不足以购买更贵的奢侈品，符合网易严选的用户定位。</p>
 <h6 id="2性别分布"><strong>2）性别分布</strong></h6>
 <figure data-type="image" tabindex="6"><img src="https://www.guoyuw.site/post-images/1583945835227.png" alt="" loading="lazy"></figure>
-<p>活跃用户中，**男女占比总体持平，**男性用户略多于女性用户。</p>
+<p>活跃用户中，<strong>男女占比总体持平</strong>，男性用户略多于女性用户。</p>
 <h6 id="3地域分布"><strong>3）地域分布</strong></h6>
 <figure data-type="image" tabindex="7"><img src="https://www.guoyuw.site/post-images/1583945856377.png" alt="" loading="lazy"></figure>
 <p>地域分布上看，网易严选集中在<strong>一二线城市和东部沿海地区</strong>，尤其是<strong>广东省</strong>用户占比最高。</p>
 <h6 id="4应用偏好"><strong>4）应用偏好：</strong></h6>
 <figure data-type="image" tabindex="8"><img src="https://www.guoyuw.site/post-images/1583945880907.png" alt="" loading="lazy"></figure>
-<p>该图统计了安装网易严选App的用户对某类App的偏好关键词，可以看到，网易严选的用户群体生活方式**呈现年轻化，关注生活、影音、娱乐、阅读，喜好家居、健康，**网易严选App的高品质定位正好满足了这部分群体对生活水平的要求和对情怀的需求。</p>
+<p>该图统计了安装网易严选App的用户对某类App的偏好关键词，可以看到，网易严选的用户群体生活方式<strong>呈现年轻化，关注生活、影音、娱乐、阅读，喜好家居、健康</strong>，网易严选App的高品质定位正好满足了这部分群体对生活水平的要求和对情怀的需求。</p>
 <h2 id="5-产品优化建议"><strong>5. 产品优化建议：</strong></h2>
 <p>基于上述分析，笔者为网易严选产品的进一步优化提出如下建议：</p>
 <h4 id="51-针对产品设计的建议"><strong>5.1 针对产品设计的建议</strong></h4>
-<p>1）“值得买”模块中的专题tab分类有一点杂乱，不同分类之间存在概念交叉，**比如“9.9超值”和“员工精选”都指向价格促销的商品，“好物大赏”和“明星商品”都指向销量领先的商品，**分类模糊会让用户产生信息输入过多的困扰。<br>
+<p>1）“值得买”模块中的专题tab分类有一点杂乱，不同分类之间存在概念交叉，比如“9.9超值”和“员工精选”都指向价格促销的商品，“好物大赏”和“明星商品”都指向销量领先的商品，分类模糊会让用户产生信息输入过多的困扰。<br>
 <img src="https://www.guoyuw.site/post-images/1583948533094.jpg" alt="" loading="lazy"><br>
            <em>（截图自安卓V 5.2.0版本中的专题tab界面）</em></p>
 <p><strong>[解决方案]</strong> 可以合并概念相似的分类，也可以增加编辑选项，允许用户自定义显示感兴趣的专题tab。</p>
-<p>2）目前所有商品的客服图标触发后，都显示同样的提示内容（如下图），**没有根据商品自定义“自动回复内容”，增加了用户咨询和客服回答的成本。**笔者猜测可能是由于网易所有商品皆为自营模式，各商品没有对应品牌商作为客服。<br>
+<p>2）目前所有商品的客服图标触发后，都显示同样的提示内容（如下图），没有根据商品自定义“自动回复内容”，增加了用户咨询和客服回答的成本。笔者猜测可能是由于网易所有商品皆为自营模式，各商品没有对应品牌商作为客服。<br>
 <img src="https://www.guoyuw.site/post-images/1583951865407.jpg" alt="" loading="lazy"></p>
 <p><strong>[解决方案]</strong> 参考淘宝客服界面，增加自动发送商品链接功能，减少用户的输入成本。</p>
 <p>3）建议网易严选在商品详情页下的“常见问题”模块中<strong>增加对应商品的常见问题问答</strong>，减少客服成本。</p>
