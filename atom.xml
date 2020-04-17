@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.guoyuw.site</id>
     <title>Guoyu Wu</title>
-    <updated>2020-04-09T21:07:41.706Z</updated>
+    <updated>2020-04-17T01:53:17.618Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.guoyuw.site"/>
     <link rel="self" href="https://www.guoyuw.site/atom.xml"/>
@@ -142,10 +142,10 @@ SOP 的最佳效果应该如何？「随便一个人来照着文档做，不动�
         <id>https://www.guoyuw.site/post/jishu-vocabulary/</id>
         <link href="https://www.guoyuw.site/post/jishu-vocabulary/">
         </link>
-        <updated>2020-02-26T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>📌最后更新时间：2020年4月3日📅</p>
+        <updated>2020-02-25T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>📌最后更新时间：2020年4月15日📅</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>📌最后更新时间：2020年4月3日📅</p>
+        <content type="html"><![CDATA[<p>📌最后更新时间：2020年4月15日📅</p>
 <!-- more -->
 <p><br/><br/></p>
 <h6 id="apiapplication-programming-interface应用程序接口"><strong>API，Application Programming Interface，应用程序接口</strong></h6>
@@ -182,6 +182,9 @@ SOP 的最佳效果应该如何？「随便一个人来照着文档做，不动�
 <h6 id="poipoint-of-information信息点"><strong>POI，Point of Information，信息点</strong></h6>
 <p>在地理信息系统中，一个POI可以是一栋房子、一个商铺、一个邮筒、一个公交站等。<br>
 <br/></p>
+<h6 id="qpsqueries-per-second每秒查询率"><strong>QPS，Queries-per-second，每秒查询率</strong></h6>
+<p>是对一个特定的查询服务器在规定时间内所处理流量多少的衡量标准，在因特网上，作为域名系统服务器的机器的性能经常用每秒查询率来衡量。<br>
+<br/></p>
 <h6 id="rbacrole-based-access-control基于角色的访问控制"><strong>RBAC，Role-Based Access Control，基于角色的访问控制</strong></h6>
 <p>是实施面向企业安全策略的一种有效的访问控制方式。<br>
 其基本思想是，对系统操作的各种权限不是直接授予具体的用户，而是<strong>在用户集合与权限集合之间建立一个角色集合</strong>。每一种角色对应一组相应的权限。一旦用户被分配了适当的角色后，该用户就拥有此角色的所有操作权限。这样做的好处是，不必在每次创建用户时都进行分配权限的操作，只要分配用户相应的角色即可，而且角色的权限变更比用户的权限变更要少得多，这样将简化用户的权限管理，减少系统的开销。<br>
@@ -193,6 +196,10 @@ SOP 的最佳效果应该如何？「随便一个人来照着文档做，不动�
 <h6 id="saassoftware-as-a-service软件即服务"><strong>SaaS，Software as a Service，软件即服务</strong></h6>
 <p>SaaS是一种面向软件消费者的, 用户无需安装, 通过标准的Internet工具（比如浏览器、移动端APP）, 即可使用<strong>云计算平台</strong>提供的软件。<br>
 SaaS 应用软件有免费、付费和增值三种模式。付费通常为“全包”费用，囊括了通常的应用软件许可证费、软件维护费以及技术支持费，将其统一为每个用户的<strong>月度租用费</strong>。<br>
+<br/></p>
+<h6 id="sdksoftware-development-kit软件开发工具包"><strong>SDK，Software Development Kit，软件开发工具包</strong></h6>
+<p>软件开发工具包一般都是一些软件工程师为特定的软件包、软件框架、硬件平台、操作系统等建立应用软件时的开发工具的集合。软件开发工具包括广义上指辅助开发某一类软件的相关文档、范例和工具的集合。<br>
+为了鼓励开发者使用其系统或者语言，许多SDK是免费提供的。软件工程师通常从目标系统开发者那里获得软件开发包，也可以直接从互联网下载，有时也被作为营销手段。例如，营销公司会免费提供构建SDK 以鼓励人们使用它，从而会吸引更多人由于能免费为其编程而购买其构件。<br>
 <br/></p>
 <h6 id="ssosingle-sign-on单点登录"><strong>SSO，Single Sign On，单点登录</strong></h6>
 <p>通过用户的一次性鉴别登录。当用户在身份认证服务器上登录一次以后，即可获得访问单点登录系统中其他关联系统和应用软件的权限，同时这种实现是不需要管理员对用户的登录状态或其他信息进行修改的，这意味着在多个应用系统中，<strong>用户只需一次登录就可以访问所有相互信任的应用系统</strong>。这种方式减少了由登录产生的时间消耗，辅助了用户管理，是目前比较流行的。<br>
