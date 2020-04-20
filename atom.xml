@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.guoyuw.site</id>
     <title>Guoyu Wu</title>
-    <updated>2020-04-18T20:05:49.712Z</updated>
+    <updated>2020-04-20T12:58:45.932Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.guoyuw.site"/>
     <link rel="self" href="https://www.guoyuw.site/atom.xml"/>
@@ -324,84 +324,6 @@ SOP 的最佳效果应该如何？「随便一个人来照着文档做，不动�
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[技术入门缩写词汇表（持续更新）]]></title>
-        <id>https://www.guoyuw.site/post/jishu-vocabulary/</id>
-        <link href="https://www.guoyuw.site/post/jishu-vocabulary/">
-        </link>
-        <updated>2020-02-25T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>📌最后更新时间：2020年4月15日📅</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>📌最后更新时间：2020年4月15日📅</p>
-<!-- more -->
-<p><br/><br/></p>
-<h6 id="apiapplication-programming-interface应用程序接口"><strong>API，Application Programming Interface，应用程序接口</strong></h6>
-<p>是一些预先定义的函数，或指软件系统不同组成部分衔接的约定。目的是提供应用程序与开发人员基于某软件或硬件得以访问一组例程的能力，而又<strong>无需访问原码，或理解内部工作机制的细节</strong>。<br>
-是一种为客户提供服务的方式。<br>
-<br/></p>
-<h6 id="idcinternet-data-center互联网数据中心"><strong>IDC，Internet Data Center，互联网数据中心</strong></h6>
-<p>指一种拥有完善的设备（包括高速互联网接入带宽、高性能局域网络、安全可靠的机房环境等）、专业化的管理、完善的应用的服务平台。在这个平台基础上，IDC服务商为客户提供互联网基础平台服务（服务器托管、虚拟主机、邮件缓存、虚拟邮件等）以及各种增值服务（场地的租用服务、域名系统服务、负载均衡系统、数据库系统、数据备份服务等）。<br>
-产生背景：随着电子商务的兴起，企业用户会把越来越多的业务通过Internet或者Intranet来进行处理，这使得企业可以更好地节约成本、提高效率。但是，如果企业自己构建这样一个平台，就需要自己建机房、建系统、聘请很多的开发及维护人员，不仅需要大量的资金投入，而且也很难达到专业级的服务品质。IDC就可以为企业提供这一系列的支持，免去了企业的后顾之忧。<br>
-<br/></p>
-<h6 id="ioe传统it三大件"><strong>IOE，传统IT三大件</strong></h6>
-<p>指以 IBM 、Oracle、EMC 为代表的小型机、集中式数据库和高端存储的技术架构。（IBM，服务器提供商，小型机；Oracle，数据库提供商；EMC，存储设备提供商。）<br>
-场景：2009年，阿里提出<strong>去IOE</strong>战略，要摆脱掉IT部署中原有的IBM小型机、Oracle数据库以及EMC存储的过度依赖。2013年5月17日，阿里集团最后一台IBM小机在支付宝下线。<br>
-<br/></p>
-<h6 id="isvindependent-software-vendors独立软件开发商"><strong>ISV，Independent Software Vendors，独立软件开发商</strong></h6>
-<p>特指专门从事软件的开发、生产、销售和服务的企业，如微软（Microsoft）、甲骨文（Oracle）等。<br>
-场景：钉钉推出的“开放平台”，让所有独立第三方ISV可以免费入驻，共享客户资源。<br>
-<br/></p>
-<h6 id="mdmmaster-data-management主数据管理"><strong>MDM，Master Data Management，主数据管理</strong></h6>
-<p>描述了一组规程、技术和解决方案，这些规程、技术和解决方案用于为所有利益相关方（如用户、应用程序、数据仓库、流程以及贸易伙伴）创建并维护<strong>业务数据的一致性、完整性、相关性和精确性</strong>。<br>
-一家企业应该<strong>有且只有一套</strong>客户资料存储系统和一套商品信息存储系统，以保证数据管理的一致性。<br>
-<br/></p>
-<h6 id="oa系统office-automation办公自动化"><strong>OA系统，Office Automation，办公自动化</strong></h6>
-<p>将计算机、通信等现代化技术运用到传统办公方式，进而形成的一种新型办公方式。办公自动化利用现代化设备和信息化技术，<strong>代替办公人员传统的部分手动或重复性业务活动</strong>，优质而高效地处理办公事务和业务信息，实现对信息资源的高效利用，进而达到提高生产率、辅助决策的目的，<strong>最大限度地提高工作效率和质量、改善工作环境</strong>。<br>
-<br/></p>
-<h6 id="olaponline-analytical-processing联机分析处理"><strong>OLAP，Online Analytical Processing，联机分析处理</strong></h6>
-<p>是一种软件技术，使分析人员能够迅速、一致、交互地从各个方面观察信息，以达到深入理解数据的目的。<br>
-它具有FASMI (Fast Analysis of Shared Multidimensional Information)，即共享多维信息的快速分析的特征。其中F是<strong>快速性</strong>(Fast)，指系统能在数秒内对用户的多数分析要求做出反应；A是可分析性(Analysis)，指用户<strong>无需编程</strong>就可以定义新的专门计算，将其作为分析的一部 分，并以用户所希望的方式给出报告；M是<strong>多维性</strong>(Multi—dimensional)，指提供对数据分析的多维视图和分析；I是<strong>信息性</strong>(Information)，指能及时获得信息，并且管理大容量信息。<br>
-<br/></p>
-<h6 id="paasplatform-as-a-service平台即服务"><strong>PaaS，Platform as a Service，平台即服务</strong></h6>
-<p>PaaS实际上是指将<strong>软件研发的平台</strong>作为一种服务，以SaaS的模式提交给用户。<br>
-因此，<strong>PaaS是SaaS模式的一种应用</strong>。PaaS的出现可以加快SaaS的发展，尤其是加快SaaS应用的开发速度。在2007年国内外SaaS厂商先后推出自己的PaaS平台。<br>
-<br/></p>
-<h6 id="poipoint-of-information信息点"><strong>POI，Point of Information，信息点</strong></h6>
-<p>在地理信息系统中，一个POI可以是一栋房子、一个商铺、一个邮筒、一个公交站等。<br>
-<br/></p>
-<h6 id="qpsqueries-per-second每秒查询率"><strong>QPS，Queries-per-second，每秒查询率</strong></h6>
-<p>是对一个特定的查询服务器在规定时间内所处理流量多少的衡量标准，在因特网上，作为域名系统服务器的机器的性能经常用每秒查询率来衡量。<br>
-<br/></p>
-<h6 id="rbacrole-based-access-control基于角色的访问控制"><strong>RBAC，Role-Based Access Control，基于角色的访问控制</strong></h6>
-<p>是实施面向企业安全策略的一种有效的访问控制方式。<br>
-其基本思想是，对系统操作的各种权限不是直接授予具体的用户，而是<strong>在用户集合与权限集合之间建立一个角色集合</strong>。每一种角色对应一组相应的权限。一旦用户被分配了适当的角色后，该用户就拥有此角色的所有操作权限。这样做的好处是，不必在每次创建用户时都进行分配权限的操作，只要分配用户相应的角色即可，而且角色的权限变更比用户的权限变更要少得多，这样将简化用户的权限管理，减少系统的开销。<br>
-<br/></p>
-<h6 id="rpa机器人流程自动化"><strong>RPA，机器人流程自动化</strong></h6>
-<p>以自动化软件作为虚拟劳动力，依据预先设定的程序与现有系统进行交互并完成预期的任务。通过RPA软件“机器人”可以捕捉并模拟我们日常的键盘、鼠标操作等人机交互行为，它们可以完成识别、触发、通信、文本生成等任务，自动执行重复性的业务流程。<br>
-比如：阿里云RPA产品是一款新型工作流程自动化办公机器人软件，通过模拟人工操作进行自动流程执行处理。将办公人员从每日的重复工作中解放出来，提高生产效率。是基于软件机器人和人工智能发展的新型办公业务流程自动化技术。就像工业时代工厂的流水线机器替代工人劳动一样，代替办公人员操作电脑和软件，自动完成各类软件系统的工作和业务处理，准确高效地实现业务流程自动化。<br>
-<br/></p>
-<h6 id="saassoftware-as-a-service软件即服务"><strong>SaaS，Software as a Service，软件即服务</strong></h6>
-<p>SaaS是一种面向软件消费者的, 用户无需安装, 通过标准的Internet工具（比如浏览器、移动端APP）, 即可使用<strong>云计算平台</strong>提供的软件。<br>
-SaaS 应用软件有免费、付费和增值三种模式。付费通常为“全包”费用，囊括了通常的应用软件许可证费、软件维护费以及技术支持费，将其统一为每个用户的<strong>月度租用费</strong>。<br>
-<br/></p>
-<h6 id="sdksoftware-development-kit软件开发工具包"><strong>SDK，Software Development Kit，软件开发工具包</strong></h6>
-<p>软件开发工具包一般都是一些软件工程师为特定的软件包、软件框架、硬件平台、操作系统等建立应用软件时的开发工具的集合。软件开发工具包括广义上指辅助开发某一类软件的相关文档、范例和工具的集合。<br>
-为了鼓励开发者使用其系统或者语言，许多SDK是免费提供的。软件工程师通常从目标系统开发者那里获得软件开发包，也可以直接从互联网下载，有时也被作为营销手段。例如，营销公司会免费提供构建SDK 以鼓励人们使用它，从而会吸引更多人由于能免费为其编程而购买其构件。<br>
-<br/></p>
-<h6 id="ssosingle-sign-on单点登录"><strong>SSO，Single Sign On，单点登录</strong></h6>
-<p>通过用户的一次性鉴别登录。当用户在身份认证服务器上登录一次以后，即可获得访问单点登录系统中其他关联系统和应用软件的权限，同时这种实现是不需要管理员对用户的登录状态或其他信息进行修改的，这意味着在多个应用系统中，<strong>用户只需一次登录就可以访问所有相互信任的应用系统</strong>。这种方式减少了由登录产生的时间消耗，辅助了用户管理，是目前比较流行的。<br>
-<br/></p>
-<h6 id="tmstransportation-management-system运输管理系统"><strong>TMS，Transportation Management System，运输管理系统</strong></h6>
-<p>适用于运输公司、各企业下面的运输队等，它主要包括订单管理、配载作业、调度分配、行车管理、GPS车辆定位系统、车辆管理、人员管理、数据报表、基本信息维护、系统管理等模块。该系统对车辆、驾驶员、线路等进行全面详细的统计考核，能大大提高运作效率，降低运输成本。<br>
-<br/><br/></p>
-<h6 id="粒度"><strong>粒度</strong></h6>
-<p>粒度是数据库名词，是设计数据仓库的一个重要方面。指数据仓库的数据单位中保存数据的细化或综合程度的级别。细化程度越高，粒度级就越小；相反，细化程度越低，粒度级就越大。</p>
-<p><br/><br/><br>
-参考资料：<br>
-[1] 百度百科<br>
-<br/><br/></p>
-]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[网易严选产品体验报告（学习用）]]></title>
         <id>https://www.guoyuw.site/post/chanpin-wangyiyanxuan/</id>
         <link href="https://www.guoyuw.site/post/chanpin-wangyiyanxuan/">
@@ -494,6 +416,87 @@ SaaS 应用软件有免费、付费和增值三种模式。付费通常为“全
 3）未来，建议网易严选增加更多<strong>线下场景化应用</strong>，比如严选书店、严选酒店等，让用户在线下就能接触到严选商品，从而进一步增加用户粘性。</p>
 <p><br/><br/><br/><br/></p>
 <p>                      ----end----</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[技术入门缩写词汇表（持续更新）]]></title>
+        <id>https://www.guoyuw.site/post/jishu-vocabulary/</id>
+        <link href="https://www.guoyuw.site/post/jishu-vocabulary/">
+        </link>
+        <updated>2020-02-25T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>📌最后更新时间：2020年4月20日📅</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>📌最后更新时间：2020年4月20日📅</p>
+<!-- more -->
+<p><br/><br/></p>
+<h6 id="apiapplication-programming-interface应用程序接口"><strong>API，Application Programming Interface，应用程序接口</strong></h6>
+<p>是一些预先定义的函数，或指软件系统不同组成部分衔接的约定。目的是提供应用程序与开发人员基于某软件或硬件得以访问一组例程的能力，而又<strong>无需访问原码，或理解内部工作机制的细节</strong>。<br>
+是一种为客户提供服务的方式。<br>
+<br/></p>
+<h6 id="etlextract-transform-load抽取-清洗转换-装载"><strong>ETL，Extract-Transform-Load，抽取-清洗/转换-装载</strong></h6>
+<p>用来描述将数据从来源端经过抽取（extract）、转换（transform）、加载（load）至目的端的过程。常用在数据仓库，但其对象并不限于数据仓库。<br>
+<br/></p>
+<h6 id="idcinternet-data-center互联网数据中心"><strong>IDC，Internet Data Center，互联网数据中心</strong></h6>
+<p>指一种拥有完善的设备（包括高速互联网接入带宽、高性能局域网络、安全可靠的机房环境等）、专业化的管理、完善的应用的服务平台。在这个平台基础上，IDC服务商为客户提供互联网基础平台服务（服务器托管、虚拟主机、邮件缓存、虚拟邮件等）以及各种增值服务（场地的租用服务、域名系统服务、负载均衡系统、数据库系统、数据备份服务等）。<br>
+产生背景：随着电子商务的兴起，企业用户会把越来越多的业务通过Internet或者Intranet来进行处理，这使得企业可以更好地节约成本、提高效率。但是，如果企业自己构建这样一个平台，就需要自己建机房、建系统、聘请很多的开发及维护人员，不仅需要大量的资金投入，而且也很难达到专业级的服务品质。IDC就可以为企业提供这一系列的支持，免去了企业的后顾之忧。<br>
+<br/></p>
+<h6 id="ioe传统it三大件"><strong>IOE，传统IT三大件</strong></h6>
+<p>指以 IBM 、Oracle、EMC 为代表的小型机、集中式数据库和高端存储的技术架构。（IBM，服务器提供商，小型机；Oracle，数据库提供商；EMC，存储设备提供商。）<br>
+场景：2009年，阿里提出<strong>去IOE</strong>战略，要摆脱掉IT部署中原有的IBM小型机、Oracle数据库以及EMC存储的过度依赖。2013年5月17日，阿里集团最后一台IBM小机在支付宝下线。<br>
+<br/></p>
+<h6 id="isvindependent-software-vendors独立软件开发商"><strong>ISV，Independent Software Vendors，独立软件开发商</strong></h6>
+<p>特指专门从事软件的开发、生产、销售和服务的企业，如微软（Microsoft）、甲骨文（Oracle）等。<br>
+场景：钉钉推出的“开放平台”，让所有独立第三方ISV可以免费入驻，共享客户资源。<br>
+<br/></p>
+<h6 id="mdmmaster-data-management主数据管理"><strong>MDM，Master Data Management，主数据管理</strong></h6>
+<p>描述了一组规程、技术和解决方案，这些规程、技术和解决方案用于为所有利益相关方（如用户、应用程序、数据仓库、流程以及贸易伙伴）创建并维护<strong>业务数据的一致性、完整性、相关性和精确性</strong>。<br>
+一家企业应该<strong>有且只有一套</strong>客户资料存储系统和一套商品信息存储系统，以保证数据管理的一致性。<br>
+<br/></p>
+<h6 id="oa系统office-automation办公自动化"><strong>OA系统，Office Automation，办公自动化</strong></h6>
+<p>将计算机、通信等现代化技术运用到传统办公方式，进而形成的一种新型办公方式。办公自动化利用现代化设备和信息化技术，<strong>代替办公人员传统的部分手动或重复性业务活动</strong>，优质而高效地处理办公事务和业务信息，实现对信息资源的高效利用，进而达到提高生产率、辅助决策的目的，<strong>最大限度地提高工作效率和质量、改善工作环境</strong>。<br>
+<br/></p>
+<h6 id="olaponline-analytical-processing联机分析处理"><strong>OLAP，Online Analytical Processing，联机分析处理</strong></h6>
+<p>是一种软件技术，使分析人员能够迅速、一致、交互地从各个方面观察信息，以达到深入理解数据的目的。<br>
+它具有FASMI (Fast Analysis of Shared Multidimensional Information)，即共享多维信息的快速分析的特征。其中F是<strong>快速性</strong>(Fast)，指系统能在数秒内对用户的多数分析要求做出反应；A是可分析性(Analysis)，指用户<strong>无需编程</strong>就可以定义新的专门计算，将其作为分析的一部 分，并以用户所希望的方式给出报告；M是<strong>多维性</strong>(Multi—dimensional)，指提供对数据分析的多维视图和分析；I是<strong>信息性</strong>(Information)，指能及时获得信息，并且管理大容量信息。<br>
+<br/></p>
+<h6 id="paasplatform-as-a-service平台即服务"><strong>PaaS，Platform as a Service，平台即服务</strong></h6>
+<p>PaaS实际上是指将<strong>软件研发的平台</strong>作为一种服务，以SaaS的模式提交给用户。<br>
+因此，<strong>PaaS是SaaS模式的一种应用</strong>。PaaS的出现可以加快SaaS的发展，尤其是加快SaaS应用的开发速度。在2007年国内外SaaS厂商先后推出自己的PaaS平台。<br>
+<br/></p>
+<h6 id="poipoint-of-information信息点"><strong>POI，Point of Information，信息点</strong></h6>
+<p>在地理信息系统中，一个POI可以是一栋房子、一个商铺、一个邮筒、一个公交站等。<br>
+<br/></p>
+<h6 id="qpsqueries-per-second每秒查询率"><strong>QPS，Queries-per-second，每秒查询率</strong></h6>
+<p>是对一个特定的查询服务器在规定时间内所处理流量多少的衡量标准，在因特网上，作为域名系统服务器的机器的性能经常用每秒查询率来衡量。<br>
+<br/></p>
+<h6 id="rbacrole-based-access-control基于角色的访问控制"><strong>RBAC，Role-Based Access Control，基于角色的访问控制</strong></h6>
+<p>是实施面向企业安全策略的一种有效的访问控制方式。<br>
+其基本思想是，对系统操作的各种权限不是直接授予具体的用户，而是<strong>在用户集合与权限集合之间建立一个角色集合</strong>。每一种角色对应一组相应的权限。一旦用户被分配了适当的角色后，该用户就拥有此角色的所有操作权限。这样做的好处是，不必在每次创建用户时都进行分配权限的操作，只要分配用户相应的角色即可，而且角色的权限变更比用户的权限变更要少得多，这样将简化用户的权限管理，减少系统的开销。<br>
+<br/></p>
+<h6 id="rpa机器人流程自动化"><strong>RPA，机器人流程自动化</strong></h6>
+<p>以自动化软件作为虚拟劳动力，依据预先设定的程序与现有系统进行交互并完成预期的任务。通过RPA软件“机器人”可以捕捉并模拟我们日常的键盘、鼠标操作等人机交互行为，它们可以完成识别、触发、通信、文本生成等任务，自动执行重复性的业务流程。<br>
+比如：阿里云RPA产品是一款新型工作流程自动化办公机器人软件，通过模拟人工操作进行自动流程执行处理。将办公人员从每日的重复工作中解放出来，提高生产效率。是基于软件机器人和人工智能发展的新型办公业务流程自动化技术。就像工业时代工厂的流水线机器替代工人劳动一样，代替办公人员操作电脑和软件，自动完成各类软件系统的工作和业务处理，准确高效地实现业务流程自动化。<br>
+<br/></p>
+<h6 id="saassoftware-as-a-service软件即服务"><strong>SaaS，Software as a Service，软件即服务</strong></h6>
+<p>SaaS是一种面向软件消费者的, 用户无需安装, 通过标准的Internet工具（比如浏览器、移动端APP）, 即可使用<strong>云计算平台</strong>提供的软件。<br>
+SaaS 应用软件有免费、付费和增值三种模式。付费通常为“全包”费用，囊括了通常的应用软件许可证费、软件维护费以及技术支持费，将其统一为每个用户的<strong>月度租用费</strong>。<br>
+<br/></p>
+<h6 id="sdksoftware-development-kit软件开发工具包"><strong>SDK，Software Development Kit，软件开发工具包</strong></h6>
+<p>软件开发工具包一般都是一些软件工程师为特定的软件包、软件框架、硬件平台、操作系统等建立应用软件时的开发工具的集合。软件开发工具包括广义上指辅助开发某一类软件的相关文档、范例和工具的集合。<br>
+为了鼓励开发者使用其系统或者语言，许多SDK是免费提供的。软件工程师通常从目标系统开发者那里获得软件开发包，也可以直接从互联网下载，有时也被作为营销手段。例如，营销公司会免费提供构建SDK 以鼓励人们使用它，从而会吸引更多人由于能免费为其编程而购买其构件。<br>
+<br/></p>
+<h6 id="ssosingle-sign-on单点登录"><strong>SSO，Single Sign On，单点登录</strong></h6>
+<p>通过用户的一次性鉴别登录。当用户在身份认证服务器上登录一次以后，即可获得访问单点登录系统中其他关联系统和应用软件的权限，同时这种实现是不需要管理员对用户的登录状态或其他信息进行修改的，这意味着在多个应用系统中，<strong>用户只需一次登录就可以访问所有相互信任的应用系统</strong>。这种方式减少了由登录产生的时间消耗，辅助了用户管理，是目前比较流行的。<br>
+<br/></p>
+<h6 id="tmstransportation-management-system运输管理系统"><strong>TMS，Transportation Management System，运输管理系统</strong></h6>
+<p>适用于运输公司、各企业下面的运输队等，它主要包括订单管理、配载作业、调度分配、行车管理、GPS车辆定位系统、车辆管理、人员管理、数据报表、基本信息维护、系统管理等模块。该系统对车辆、驾驶员、线路等进行全面详细的统计考核，能大大提高运作效率，降低运输成本。<br>
+<br/><br/></p>
+<h6 id="粒度"><strong>粒度</strong></h6>
+<p>粒度是数据库名词，是设计数据仓库的一个重要方面。指数据仓库的数据单位中保存数据的细化或综合程度的级别。细化程度越高，粒度级就越小；相反，细化程度越低，粒度级就越大。</p>
+<p><br/><br/><br>
+参考资料：<br>
+[1] 百度百科<br>
+<br/><br/></p>
 ]]></content>
     </entry>
     <entry>
