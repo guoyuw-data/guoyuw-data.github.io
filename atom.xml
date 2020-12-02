@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.guoyuw.site</id>
     <title>Guoyu Wu</title>
-    <updated>2020-11-12T06:52:14.320Z</updated>
+    <updated>2020-12-02T01:32:58.640Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.guoyuw.site"/>
     <link rel="self" href="https://www.guoyuw.site/atom.xml"/>
@@ -227,10 +227,10 @@ Minimum Viable Product最简化可实行产品<br /><strong>“用低成本的�
         </link>
         <updated>2020-03-01T02:19:21.000Z</updated>
         <summary type="html"><![CDATA[<p>⭐️上一份实习的时候发现每天都在遇到没见过的名词和缩写，想要一点点积累起来，下次遇到就能直接查字典了！暂时按字母表排序~</p>
-<p>📌最后更新时间：2020年5月17日📅</p>
+<p>📌最后更新时间：2020年12月2日📅</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>⭐️上一份实习的时候发现每天都在遇到没见过的名词和缩写，想要一点点积累起来，下次遇到就能直接查字典了！暂时按字母表排序~</p>
-<p>📌最后更新时间：2020年5月17日📅</p>
+<p>📌最后更新时间：2020年12月2日📅</p>
 <!-- more -->
 <p><br/><br/></p>
 <h6 id="arpuaverage-revenue-per-user每用户平均收入付费用户客单价"><strong>ARPU，Average Revenue Per User，每用户平均收入（付费用户客单价）</strong></h6>
@@ -284,6 +284,10 @@ MVP 的功用就是让你拿来接触客户，从很早就根据客户的回馈�
 <h6 id="npsnet-promoter-score净推荐值净促进者得分"><strong>NPS，Net Promoter Score，净推荐值/净促进者得分</strong></h6>
 <p>亦可称<strong>口碑</strong>，是一种计量某个客户将会向其他人推荐某个企业或服务可能性的指数。<br>
 是最流行的顾客忠诚度分析指标，专注于顾客口碑如何影响企业成长。<br>
+<br/></p>
+<h6 id="okrobjectives-and-key-results目标与关键成果法"><strong>OKR，Objectives and Key Results，目标与关键成果法</strong></h6>
+<p>是一套明确和跟踪目标及其完成情况的管理工具和方法。<br>
+旨在确保员工共同工作，并集中精力做出可衡量的贡献。<br>
 <br/></p>
 <h6 id="pvpage-view页面浏览量点击量"><strong>PV，Page View，页面浏览量/点击量</strong></h6>
 <p>通俗解释是一个访问者在24小时(0点到24点)内到底看了一个网站的<strong>几个页面</strong>。<br>
